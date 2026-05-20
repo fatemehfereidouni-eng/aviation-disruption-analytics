@@ -1,0 +1,1021 @@
+date,airline,flight_number,origin,destination,origin_country,destination_country,aircraft_type,passengers_affected,reason
+2026-02-27,Cathay Pacific,CA3642,Mumbai,Dubai,India,UAE,Boeing 737 MAX 8,158,Crew duty-time exceedance after long reroutes
+2026-02-27,Cathay Pacific,CA8812,Paris,Doha,France,Qatar,Airbus A380-800,387,ATC flow restrictions — congestion
+2026-02-27,Kuwait Airways,KU803,Dubai,Singapore,UAE,Singapore,Boeing 787-10 Dreamliner,240,ATC flow restrictions — congestion
+2026-02-27,British Airways,BR3849,London,Kuwait City,UK,Kuwait,Airbus A380-800,105,Government travel ban
+2026-02-28,Malaysia Airlines,MA101,Abu Dhabi,London,UAE,UK,Boeing 787-9 Dreamliner,185,Crew duty-time exceedance after long reroutes
+2026-02-28,Pakistan International Airlines,PA2239,Karachi,Dubai,Pakistan,UAE,Airbus A320neo,376,ATC flow restrictions — congestion
+2026-02-28,American Airlines,AM3826,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A320neo,307,Security risk — conflict zone
+2026-02-28,Thai Airways,TH1856,Dubai,Bahrain,UAE,Bahrain,Airbus A350-900,257,Insurance restriction — war zone
+2026-02-28,Delta Air Lines,DE2183,Doha,Paris,Qatar,France,Airbus A380-800,305,Government travel ban
+2026-02-28,KLM,KL9688,Paris,Beirut,France,Lebanon,Airbus A350-900,436,Diplomatic advisory — do not fly
+2026-02-28,KLM,KL3734,Dubai,New York,UAE,USA,Boeing 787-10 Dreamliner,340,Insurance restriction — war zone
+2026-02-28,Emirates,EM3325,Beijing,Tehran,China,Iran,Airbus A330-300,124,Diplomatic advisory — do not fly
+2026-02-28,Cathay Pacific,CA8807,Moscow,Tehran,Russia,Iran,Airbus A321neo,159,Airspace closure — NOTAM
+2026-02-28,EgyptAir,EG4402,London,Riyadh,UK,Saudi Arabia,Boeing 737-800,156,Government travel ban
+2026-02-28,Cathay Pacific,CA4629,Cairo,Dubai,Egypt,UAE,Boeing 737 MAX 8,192,Crew safety — company policy
+2026-02-28,Cargolux,CA3369,London,Doha,UK,Qatar,Airbus A380-800,96,Crew duty-time exceedance after long reroutes
+2026-02-28,Emirates SkyCargo,EM3896,Istanbul,Karachi,Turkey,Pakistan,Airbus A350-900,131,Insurance restriction — war zone
+2026-02-28,Iran Air,IR2654,Dubai,Karachi,UAE,Pakistan,Boeing 777-300ER,165,Crew duty-time exceedance after long reroutes
+2026-02-28,FedEx Express,FE4046,Mumbai,Dubai,India,UAE,Airbus A340-600,238,Crew duty-time exceedance after long reroutes
+2026-02-28,Gulf Air,GU5746,Dubai,New York,UAE,USA,Boeing 777-200LR,328,Temporary corridor suspension — safety bulletin
+2026-02-28,flydubai,FL5138,Islamabad,Dubai,Pakistan,UAE,Boeing 737-800,302,Security risk — conflict zone
+2026-02-28,Ethiopian Airlines,ET8192,Istanbul,Karachi,Turkey,Pakistan,Boeing 737 MAX 8,232,Crew safety — company policy
+2026-02-28,Iran Air,IR8742,Dubai,Paris,UAE,France,Airbus A330-300,259,Insurance restriction — war zone
+2026-02-28,IndiGo,IN4735,Singapore,Dubai,Singapore,UAE,Boeing 737-800,225,ATC flow restrictions — congestion
+2026-02-28,British Airways,BR9711,Cairo,Kuwait City,Egypt,Kuwait,Boeing 787-10 Dreamliner,170,ATC flow restrictions — congestion
+2026-03-01,Emirates SkyCargo,EM4580,Islamabad,Dubai,Pakistan,UAE,Boeing 787-9 Dreamliner,338,Insurance restriction — war zone
+2026-03-01,flydubai,FL1822,Moscow,Tehran,Russia,Iran,Boeing 777-200LR,127,Insurance restriction — war zone
+2026-03-01,Air India,AI3812,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A340-600,361,Crew duty-time exceedance after long reroutes
+2026-03-01,Saudi Arabian Airlines,SA345,Paris,Dubai,France,UAE,Airbus A320neo,135,ATC flow restrictions — congestion
+2026-03-01,Emirates SkyCargo,EM9569,Frankfurt,Dubai,Germany,UAE,Boeing 737-800,143,ATC flow restrictions — congestion
+2026-03-01,Jazeera Airways,JA9677,London,Bahrain,UK,Bahrain,Boeing 737 MAX 8,413,ATC flow restrictions — congestion
+2026-03-01,American Airlines,AM4989,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A330-300,94,Security risk — conflict zone
+2026-03-01,FedEx Express,FE1127,London,Singapore,UK,Singapore,Airbus A330-300,334,Airspace closure — NOTAM
+2026-03-01,Thai Airways,TH4959,Frankfurt,Dubai,Germany,UAE,Boeing 737 MAX 8,450,Insurance restriction — war zone
+2026-03-01,Cathay Pacific,CA3623,Paris,Doha,France,Qatar,Boeing 737 MAX 8,132,Government travel ban
+2026-03-01,FedEx Express,FE4808,Sydney,Dubai,Australia,UAE,Boeing 737-800,435,ATC flow restrictions — congestion
+2026-03-01,Qatar Airways,QA882,Dubai,Delhi,UAE,India,Airbus A380-800,203,Airport closure — military activity
+2026-03-01,Cathay Pacific,CA1538,Karachi,Dubai,Pakistan,UAE,Boeing 737 MAX 8,340,Government travel ban
+2026-03-01,Ethiopian Airlines,ET1944,Kuwait City,Cairo,Kuwait,Egypt,Airbus A380-800,396,Security risk — conflict zone
+2026-03-01,Kuwait Airways,KU1868,Paris,Doha,France,Qatar,Boeing 787-10 Dreamliner,253,Fuel supply disruption
+2026-03-02,Air France,AI4704,Dubai,Paris,UAE,France,Boeing 737 MAX 8,399,Crew duty-time exceedance after long reroutes
+2026-03-02,Delta Air Lines,DE3242,Mumbai,Dubai,India,UAE,Airbus A340-600,408,Crew duty-time exceedance after long reroutes
+2026-03-02,Jazeera Airways,JA2785,Tehran,Moscow,Iran,Russia,Boeing 777-300ER,139,Temporary corridor suspension — safety bulletin
+2026-03-02,Iran Air,IR8088,Cairo,Dubai,Egypt,UAE,Boeing 787-10 Dreamliner,403,Airspace closure — NOTAM
+2026-03-02,Delta Air Lines,DE6904,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 777-200LR,273,Crew safety — company policy
+2026-03-02,Emirates SkyCargo,EM9690,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A350-900,258,Airport closure — military activity
+2026-03-02,Ethiopian Airlines,ET5498,Mumbai,Kuwait City,India,Kuwait,Boeing 777-200LR,154,ATC flow restrictions — congestion
+2026-03-02,Oman Air,OM1362,Cairo,Kuwait City,Egypt,Kuwait,Airbus A320neo,280,Security risk — conflict zone
+2026-03-02,Air India,AI2104,London,Bahrain,UK,Bahrain,Boeing 737-800,293,Government travel ban
+2026-03-02,Kuwait Airways,KU7703,Karachi,Istanbul,Pakistan,Turkey,Boeing 787-10 Dreamliner,435,Insurance restriction — war zone
+2026-03-02,Malaysia Airlines,MA3295,Sydney,Dubai,Australia,UAE,Airbus A321neo,359,Fuel supply disruption
+2026-03-02,Singapore Airlines,SI2825,Islamabad,Dubai,Pakistan,UAE,Boeing 737 MAX 8,142,Crew duty-time exceedance after long reroutes
+2026-03-02,United Airlines,UN1371,Doha,New York,Qatar,USA,Boeing 787-10 Dreamliner,393,Security risk — conflict zone
+2026-03-02,flydubai,FL2663,Sydney,Abu Dhabi,Australia,UAE,Boeing 787-9 Dreamliner,261,Insurance restriction — war zone
+2026-03-02,Air France,AI1716,Muscat,London,Oman,UK,Boeing 777-300ER,422,Temporary corridor suspension — safety bulletin
+2026-03-02,Etihad Airways,ET2102,Doha,Paris,Qatar,France,Boeing 737-800,159,Crew duty-time exceedance after long reroutes
+2026-03-02,Mahan Air,MA6227,Amman,Dubai,Jordan,UAE,Airbus A380-800,395,Insurance restriction — war zone
+2026-03-02,KLM,KL5122,Singapore,Dubai,Singapore,UAE,Boeing 787-9 Dreamliner,333,Crew safety — company policy
+2026-03-02,Saudi Arabian Airlines,SA6102,Singapore,London,Singapore,UK,Airbus A320neo,206,Airport closure — military activity
+2026-03-02,FedEx Express,FE6909,New York,Doha,USA,Qatar,Boeing 787-10 Dreamliner,403,Airspace closure — NOTAM
+2026-03-02,Air France,AI1645,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A350-900,427,Airport closure — military activity
+2026-03-02,Lufthansa,LU1274,Paris,Doha,France,Qatar,Airbus A321neo,249,ATC flow restrictions — congestion
+2026-03-02,IndiGo,IN1855,Washington,Abu Dhabi,USA,UAE,Boeing 787-10 Dreamliner,264,Diplomatic advisory — do not fly
+2026-03-02,British Airways,BR4924,Kuwait City,London,Kuwait,UK,Airbus A340-600,286,Crew safety — company policy
+2026-03-03,Saudi Arabian Airlines,SA1148,London,Kuwait City,UK,Kuwait,Boeing 737-800,387,Airspace closure — NOTAM
+2026-03-03,IndiGo,IN6532,London,Abu Dhabi,UK,UAE,Airbus A340-600,132,Crew safety — company policy
+2026-03-03,Delta Air Lines,DE6658,London,Doha,UK,Qatar,Boeing 737-800,116,Security risk — conflict zone
+2026-03-03,Ethiopian Airlines,ET4466,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A330-300,134,ATC flow restrictions — congestion
+2026-03-03,Jazeera Airways,JA4154,London,Singapore,UK,Singapore,Airbus A330-300,251,Airport closure — military activity
+2026-03-03,Saudi Arabian Airlines,SA4415,Dubai,Bahrain,UAE,Bahrain,Boeing 787-10 Dreamliner,328,Security risk — conflict zone
+2026-03-03,Lufthansa,LU7988,Beirut,Paris,Lebanon,France,Boeing 777-300ER,229,Security risk — conflict zone
+2026-03-03,Etihad Airways,ET8144,Dubai,Bahrain,UAE,Bahrain,Boeing 787-10 Dreamliner,312,Government travel ban
+2026-03-03,Jazeera Airways,JA4576,Doha,New York,Qatar,USA,Boeing 787-9 Dreamliner,84,Crew safety — company policy
+2026-03-03,Gulf Air,GU6126,Doha,Los Angeles,Qatar,USA,Airbus A330-300,154,ATC flow restrictions — congestion
+2026-03-03,Thai Airways,TH2352,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A350-900,213,Temporary corridor suspension — safety bulletin
+2026-03-03,Air India,AI4752,Dubai,Frankfurt,UAE,Germany,Airbus A340-600,447,Crew duty-time exceedance after long reroutes
+2026-03-03,Saudi Arabian Airlines,SA6473,Kuwait City,Mumbai,Kuwait,India,Boeing 737-800,167,Security risk — conflict zone
+2026-03-03,DHL Aviation,DH5883,London,Dubai,UK,UAE,Airbus A321neo,440,Airport closure — military activity
+2026-03-03,Cargolux,CA8627,London,Riyadh,UK,Saudi Arabia,Airbus A340-600,242,Airspace closure — NOTAM
+2026-03-03,Ethiopian Airlines,ET7966,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 737-800,331,Fuel supply disruption
+2026-03-03,IndiGo,IN3448,Muscat,London,Oman,UK,Airbus A330-300,270,Crew safety — company policy
+2026-03-03,Qatar Airways,QA9007,Washington,Abu Dhabi,USA,UAE,Boeing 777-200LR,433,Crew duty-time exceedance after long reroutes
+2026-03-03,IndiGo,IN7048,New York,Doha,USA,Qatar,Boeing 787-9 Dreamliner,411,Diplomatic advisory — do not fly
+2026-03-03,IndiGo,IN1293,Istanbul,Dubai,Turkey,UAE,Airbus A340-600,439,Temporary corridor suspension — safety bulletin
+2026-03-03,Etihad Airways,ET9404,Istanbul,Karachi,Turkey,Pakistan,Boeing 737-800,414,Diplomatic advisory — do not fly
+2026-03-03,Turkish Airlines,TU4366,Paris,Dubai,France,UAE,Boeing 737-800,389,Government travel ban
+2026-03-03,Gulf Air,GU4122,Washington,Abu Dhabi,USA,UAE,Boeing 737-800,361,Temporary corridor suspension — safety bulletin
+2026-03-04,Gulf Air,GU2978,New York,Doha,USA,Qatar,Boeing 777-200LR,279,Insurance restriction — war zone
+2026-03-04,Saudi Arabian Airlines,SA7713,Singapore,London,Singapore,UK,Airbus A350-900,409,Government travel ban
+2026-03-04,Pakistan International Airlines,PA1202,Doha,Paris,Qatar,France,Boeing 777-200LR,348,Temporary corridor suspension — safety bulletin
+2026-03-04,Kuwait Airways,KU6859,Paris,Doha,France,Qatar,Airbus A330-300,305,ATC flow restrictions — congestion
+2026-03-04,Malaysia Airlines,MA1984,Istanbul,Dubai,Turkey,UAE,Airbus A380-800,85,ATC flow restrictions — congestion
+2026-03-04,Jazeera Airways,JA8241,New York,Doha,USA,Qatar,Airbus A330-300,422,Fuel supply disruption
+2026-03-04,United Airlines,UN340,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A350-900,349,Government travel ban
+2026-03-04,Air India,AI2907,London,Dubai,UK,UAE,Boeing 737-800,278,Temporary corridor suspension — safety bulletin
+2026-03-04,KLM,KL3060,Dubai,Cairo,UAE,Egypt,Boeing 777-300ER,377,ATC flow restrictions — congestion
+2026-03-04,Malaysia Airlines,MA5896,London,Muscat,UK,Oman,Boeing 777-200LR,150,Government travel ban
+2026-03-04,Air India,AI6861,Delhi,Dubai,India,UAE,Boeing 787-9 Dreamliner,325,Temporary corridor suspension — safety bulletin
+2026-03-04,FedEx Express,FE7230,London,Kuwait City,UK,Kuwait,Boeing 787-10 Dreamliner,245,Insurance restriction — war zone
+2026-03-04,Saudi Arabian Airlines,SA9105,Dubai,Paris,UAE,France,Airbus A350-900,99,Crew safety — company policy
+2026-03-04,Kuwait Airways,KU4908,London,Abu Dhabi,UK,UAE,Airbus A350-900,268,Airport closure — military activity
+2026-03-04,Saudi Arabian Airlines,SA2799,London,Singapore,UK,Singapore,Boeing 777-200LR,247,Insurance restriction — war zone
+2026-03-04,Lufthansa,LU3390,Dubai,Islamabad,UAE,Pakistan,Airbus A350-900,99,Government travel ban
+2026-03-04,Gulf Air,GU1629,Delhi,Dubai,India,UAE,Boeing 737 MAX 8,410,Fuel supply disruption
+2026-03-04,FedEx Express,FE3160,Beirut,Paris,Lebanon,France,Boeing 787-9 Dreamliner,411,Security risk — conflict zone
+2026-03-05,Etihad Airways,ET3032,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A380-800,216,Temporary corridor suspension — safety bulletin
+2026-03-05,Air France,AI8665,New York,Doha,USA,Qatar,Airbus A380-800,334,Government travel ban
+2026-03-05,Iran Air,IR6390,London,Bahrain,UK,Bahrain,Boeing 737-800,443,Airport closure — military activity
+2026-03-05,Thai Airways,TH5838,Muscat,London,Oman,UK,Airbus A340-600,312,ATC flow restrictions — congestion
+2026-03-05,Kuwait Airways,KU3998,New York,Dubai,USA,UAE,Boeing 787-10 Dreamliner,158,Diplomatic advisory — do not fly
+2026-03-05,DHL Aviation,DH1333,Istanbul,Karachi,Turkey,Pakistan,Airbus A350-900,238,Insurance restriction — war zone
+2026-03-05,Jazeera Airways,JA894,New York,Dubai,USA,UAE,Airbus A340-600,264,Insurance restriction — war zone
+2026-03-05,KLM,KL7200,Cairo,Dubai,Egypt,UAE,Airbus A320neo,268,Diplomatic advisory — do not fly
+2026-03-05,Emirates SkyCargo,EM6412,Istanbul,Tehran,Turkey,Iran,Airbus A320neo,333,Crew duty-time exceedance after long reroutes
+2026-03-05,Saudi Arabian Airlines,SA421,Doha,Paris,Qatar,France,Boeing 737 MAX 8,306,Government travel ban
+2026-03-05,British Airways,BR2894,Istanbul,Dubai,Turkey,UAE,Airbus A330-300,80,Crew safety — company policy
+2026-03-05,Kuwait Airways,KU345,Doha,Mumbai,Qatar,India,Airbus A350-900,341,Diplomatic advisory — do not fly
+2026-03-05,Ethiopian Airlines,ET2012,Bahrain,Dubai,Bahrain,UAE,Boeing 787-10 Dreamliner,372,Government travel ban
+2026-03-05,Qatar Airways,QA3913,Bahrain,Dubai,Bahrain,UAE,Airbus A320neo,96,Security risk — conflict zone
+2026-03-06,Ethiopian Airlines,ET3198,Doha,Los Angeles,Qatar,USA,Boeing 737-800,94,Crew duty-time exceedance after long reroutes
+2026-03-06,Pakistan International Airlines,PA874,Kuwait City,Mumbai,Kuwait,India,Boeing 777-300ER,87,Crew duty-time exceedance after long reroutes
+2026-03-06,Cargolux,CA1068,Lahore,Doha,Pakistan,Qatar,Boeing 737-800,379,Crew duty-time exceedance after long reroutes
+2026-03-06,Gulf Air,GU4446,Los Angeles,Doha,USA,Qatar,Boeing 787-10 Dreamliner,195,Insurance restriction — war zone
+2026-03-06,Emirates,EM4550,Tehran,Beijing,Iran,China,Boeing 787-9 Dreamliner,346,Diplomatic advisory — do not fly
+2026-03-06,Jazeera Airways,JA7974,Moscow,Tehran,Russia,Iran,Boeing 787-10 Dreamliner,160,Crew safety — company policy
+2026-03-06,IndiGo,IN9149,Dubai,Amman,UAE,Jordan,Boeing 787-10 Dreamliner,394,Fuel supply disruption
+2026-03-06,Iran Air,IR7588,Mumbai,Dubai,India,UAE,Airbus A380-800,340,Crew duty-time exceedance after long reroutes
+2026-03-06,Turkish Airlines,TU9732,New York,Dubai,USA,UAE,Airbus A321neo,415,Insurance restriction — war zone
+2026-03-06,Ethiopian Airlines,ET8647,Delhi,Dubai,India,UAE,Airbus A340-600,121,Temporary corridor suspension — safety bulletin
+2026-03-06,Emirates,EM8136,Karachi,Istanbul,Pakistan,Turkey,Boeing 787-10 Dreamliner,332,Security risk — conflict zone
+2026-03-06,Air India,AI1570,Doha,Mumbai,Qatar,India,Airbus A320neo,399,Temporary corridor suspension — safety bulletin
+2026-03-06,Air France,AI4242,Beirut,Paris,Lebanon,France,Boeing 777-300ER,298,Crew duty-time exceedance after long reroutes
+2026-03-06,Mahan Air,MA4860,Cairo,Dubai,Egypt,UAE,Airbus A340-600,336,Government travel ban
+2026-03-06,Turkish Airlines,TU7056,Mumbai,Doha,India,Qatar,Boeing 787-9 Dreamliner,259,Insurance restriction — war zone
+2026-03-06,Gulf Air,GU784,London,Abu Dhabi,UK,UAE,Boeing 777-300ER,303,Government travel ban
+2026-03-06,flydubai,FL533,Doha,New York,Qatar,USA,Airbus A330-300,421,Airspace closure — NOTAM
+2026-03-07,Cathay Pacific,CA9378,Mumbai,Dubai,India,UAE,Boeing 777-300ER,376,Crew duty-time exceedance after long reroutes
+2026-03-07,Qatar Airways,QA7331,Delhi,Istanbul,India,Turkey,Airbus A350-900,169,Security risk — conflict zone
+2026-03-07,Oman Air,OM3367,Dubai,Istanbul,UAE,Turkey,Boeing 737-800,233,Diplomatic advisory — do not fly
+2026-03-07,Kuwait Airways,KU9748,Sydney,Abu Dhabi,Australia,UAE,Airbus A350-900,126,ATC flow restrictions — congestion
+2026-03-07,DHL Aviation,DH201,Mumbai,Dubai,India,UAE,Boeing 737-800,402,Diplomatic advisory — do not fly
+2026-03-07,Oman Air,OM2117,Paris,Doha,France,Qatar,Airbus A330-300,387,Government travel ban
+2026-03-07,Emirates,EM1417,Muscat,London,Oman,UK,Airbus A350-900,226,Security risk — conflict zone
+2026-03-07,Pakistan International Airlines,PA8158,Kuwait City,Mumbai,Kuwait,India,Boeing 737-800,315,Fuel supply disruption
+2026-03-07,Malaysia Airlines,MA6926,Muscat,London,Oman,UK,Boeing 787-9 Dreamliner,130,Temporary corridor suspension — safety bulletin
+2026-03-07,Thai Airways,TH9590,Frankfurt,Dubai,Germany,UAE,Airbus A350-900,198,Insurance restriction — war zone
+2026-03-07,Air India,AI4801,Muscat,London,Oman,UK,Boeing 777-200LR,96,Crew duty-time exceedance after long reroutes
+2026-03-07,Lufthansa,LU5924,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A330-300,287,Government travel ban
+2026-03-07,Jazeera Airways,JA2392,Abu Dhabi,Sydney,UAE,Australia,Airbus A380-800,338,Airport closure — military activity
+2026-03-07,United Airlines,UN5074,Kuwait City,Mumbai,Kuwait,India,Boeing 737-800,296,Airport closure — military activity
+2026-03-07,Iran Air,IR5888,Dubai,Amman,UAE,Jordan,Airbus A340-600,307,Crew safety — company policy
+2026-03-07,Qatar Airways,QA1993,Paris,Beirut,France,Lebanon,Boeing 777-200LR,205,Airport closure — military activity
+2026-03-07,United Airlines,UN8284,Tehran,Beijing,Iran,China,Boeing 737 MAX 8,348,Insurance restriction — war zone
+2026-03-07,flydubai,FL4378,Dubai,New York,UAE,USA,Airbus A350-900,417,Insurance restriction — war zone
+2026-03-07,Air India,AI160,Kuwait City,Cairo,Kuwait,Egypt,Airbus A380-800,231,Crew duty-time exceedance after long reroutes
+2026-03-07,Mahan Air,MA8475,Delhi,Istanbul,India,Turkey,Airbus A340-600,127,Insurance restriction — war zone
+2026-03-07,Singapore Airlines,SI1986,Lahore,Doha,Pakistan,Qatar,Airbus A380-800,184,ATC flow restrictions — congestion
+2026-03-08,Lufthansa,LU598,Karachi,Dubai,Pakistan,UAE,Boeing 777-300ER,433,ATC flow restrictions — congestion
+2026-03-08,FedEx Express,FE5079,Doha,New York,Qatar,USA,Airbus A380-800,269,Diplomatic advisory — do not fly
+2026-03-08,Air Arabia,AI8631,Dubai,New York,UAE,USA,Boeing 737 MAX 8,327,Security risk — conflict zone
+2026-03-08,Pakistan International Airlines,PA3846,Dubai,London,UAE,UK,Airbus A330-300,158,Fuel supply disruption
+2026-03-08,Singapore Airlines,SI8305,Mumbai,Doha,India,Qatar,Boeing 787-9 Dreamliner,315,Diplomatic advisory — do not fly
+2026-03-08,FedEx Express,FE5416,Delhi,Istanbul,India,Turkey,Airbus A380-800,445,Temporary corridor suspension — safety bulletin
+2026-03-08,Jazeera Airways,JA1328,Dubai,London,UAE,UK,Airbus A321neo,215,ATC flow restrictions — congestion
+2026-03-08,Jazeera Airways,JA7231,Kuwait City,Mumbai,Kuwait,India,Airbus A320neo,205,Crew safety — company policy
+2026-03-08,American Airlines,AM3981,Doha,Lahore,Qatar,Pakistan,Airbus A380-800,366,Crew safety — company policy
+2026-03-08,Lufthansa,LU8951,Paris,Beirut,France,Lebanon,Boeing 777-300ER,95,Government travel ban
+2026-03-08,American Airlines,AM6198,Delhi,Istanbul,India,Turkey,Airbus A380-800,435,Government travel ban
+2026-03-08,Cathay Pacific,CA5307,Doha,Mumbai,Qatar,India,Boeing 737-800,443,Government travel ban
+2026-03-08,Iran Air,IR3949,Sydney,Dubai,Australia,UAE,Airbus A350-900,130,Fuel supply disruption
+2026-03-08,Qatar Airways,QA8136,Bahrain,Dubai,Bahrain,UAE,Boeing 787-9 Dreamliner,317,ATC flow restrictions — congestion
+2026-03-08,Air Arabia,AI9118,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A330-300,325,Security risk — conflict zone
+2026-03-08,Jazeera Airways,JA1145,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A320neo,318,Airport closure — military activity
+2026-03-08,Pakistan International Airlines,PA1778,New York,Doha,USA,Qatar,Airbus A320neo,156,Security risk — conflict zone
+2026-03-08,Emirates SkyCargo,EM766,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 777-300ER,262,Airport closure — military activity
+2026-03-08,flydubai,FL883,Dubai,Karachi,UAE,Pakistan,Airbus A340-600,396,Security risk — conflict zone
+2026-03-08,Emirates SkyCargo,EM9385,Dubai,Amman,UAE,Jordan,Airbus A320neo,342,Government travel ban
+2026-03-09,Air France,AI2446,Kuwait City,Mumbai,Kuwait,India,Airbus A320neo,171,Diplomatic advisory — do not fly
+2026-03-09,Malaysia Airlines,MA787,Moscow,Tehran,Russia,Iran,Airbus A350-900,408,Airport closure — military activity
+2026-03-09,KLM,KL1637,Frankfurt,Dubai,Germany,UAE,Boeing 787-10 Dreamliner,367,Crew duty-time exceedance after long reroutes
+2026-03-09,Singapore Airlines,SI5575,Islamabad,Dubai,Pakistan,UAE,Boeing 737 MAX 8,313,Airport closure — military activity
+2026-03-09,IndiGo,IN8920,Islamabad,Dubai,Pakistan,UAE,Boeing 777-300ER,360,Crew safety — company policy
+2026-03-09,Turkish Airlines,TU482,Paris,Dubai,France,UAE,Airbus A321neo,300,ATC flow restrictions — congestion
+2026-03-09,Thai Airways,TH9401,Los Angeles,Doha,USA,Qatar,Boeing 777-300ER,88,Security risk — conflict zone
+2026-03-09,United Airlines,UN4827,Dubai,Delhi,UAE,India,Airbus A380-800,217,Fuel supply disruption
+2026-03-09,Air Arabia,AI4152,Dubai,Bahrain,UAE,Bahrain,Boeing 737 MAX 8,417,Government travel ban
+2026-03-09,Kuwait Airways,KU1745,London,Muscat,UK,Oman,Boeing 737-800,297,Temporary corridor suspension — safety bulletin
+2026-03-09,Air France,AI8273,Karachi,Dubai,Pakistan,UAE,Boeing 777-300ER,279,Airspace closure — NOTAM
+2026-03-09,Mahan Air,MA5017,Dubai,Amman,UAE,Jordan,Boeing 777-200LR,157,Insurance restriction — war zone
+2026-03-09,KLM,KL2707,New York,Dubai,USA,UAE,Airbus A321neo,337,ATC flow restrictions — congestion
+2026-03-09,DHL Aviation,DH663,Riyadh,London,Saudi Arabia,UK,Airbus A340-600,99,Insurance restriction — war zone
+2026-03-09,Ethiopian Airlines,ET6527,Beirut,Paris,Lebanon,France,Airbus A321neo,119,Government travel ban
+2026-03-09,Gulf Air,GU8068,Paris,Doha,France,Qatar,Airbus A340-600,151,Temporary corridor suspension — safety bulletin
+2026-03-09,Qatar Airways,QA477,Dubai,New York,UAE,USA,Airbus A321neo,300,Fuel supply disruption
+2026-03-10,KLM,KL8103,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A321neo,384,Fuel supply disruption
+2026-03-10,Cathay Pacific,CA5324,Istanbul,Tehran,Turkey,Iran,Boeing 777-300ER,248,Government travel ban
+2026-03-10,American Airlines,AM5927,Karachi,Dubai,Pakistan,UAE,Airbus A340-600,319,Temporary corridor suspension — safety bulletin
+2026-03-10,Etihad Airways,ET8499,Abu Dhabi,Washington,UAE,USA,Airbus A320neo,355,Temporary corridor suspension — safety bulletin
+2026-03-10,Gulf Air,GU7445,Singapore,Dubai,Singapore,UAE,Airbus A320neo,257,Diplomatic advisory — do not fly
+2026-03-10,Oman Air,OM9822,Paris,Doha,France,Qatar,Boeing 787-10 Dreamliner,385,Insurance restriction — war zone
+2026-03-10,United Airlines,UN4102,Istanbul,Karachi,Turkey,Pakistan,Airbus A350-900,106,Airport closure — military activity
+2026-03-10,Delta Air Lines,DE3128,Paris,Doha,France,Qatar,Boeing 787-10 Dreamliner,131,Security risk — conflict zone
+2026-03-10,Malaysia Airlines,MA7586,Beirut,Paris,Lebanon,France,Airbus A321neo,325,Temporary corridor suspension — safety bulletin
+2026-03-10,Delta Air Lines,DE7000,Paris,Doha,France,Qatar,Boeing 787-10 Dreamliner,369,Crew duty-time exceedance after long reroutes
+2026-03-10,British Airways,BR6209,Cairo,Riyadh,Egypt,Saudi Arabia,Boeing 777-200LR,101,Airport closure — military activity
+2026-03-10,IndiGo,IN4048,London,Doha,UK,Qatar,Airbus A380-800,407,Government travel ban
+2026-03-10,United Airlines,UN5656,Doha,Paris,Qatar,France,Boeing 777-300ER,252,Insurance restriction — war zone
+2026-03-10,Cathay Pacific,CA6900,London,Kuwait City,UK,Kuwait,Boeing 787-10 Dreamliner,338,Fuel supply disruption
+2026-03-10,Etihad Airways,ET269,Dubai,New York,UAE,USA,Boeing 787-9 Dreamliner,425,Security risk — conflict zone
+2026-03-10,DHL Aviation,DH6612,Doha,Mumbai,Qatar,India,Boeing 787-9 Dreamliner,104,Airspace closure — NOTAM
+2026-03-10,KLM,KL1631,Doha,New York,Qatar,USA,Airbus A321neo,437,Crew duty-time exceedance after long reroutes
+2026-03-10,IndiGo,IN9082,Beirut,Paris,Lebanon,France,Boeing 777-300ER,334,Temporary corridor suspension — safety bulletin
+2026-03-10,flydubai,FL7106,Cairo,Kuwait City,Egypt,Kuwait,Boeing 777-200LR,358,Crew safety — company policy
+2026-03-10,Saudi Arabian Airlines,SA3139,Bahrain,Dubai,Bahrain,UAE,Boeing 787-10 Dreamliner,402,Security risk — conflict zone
+2026-03-10,Oman Air,OM5215,Riyadh,London,Saudi Arabia,UK,Airbus A350-900,176,Fuel supply disruption
+2026-03-10,Cathay Pacific,CA2531,Bahrain,Dubai,Bahrain,UAE,Airbus A340-600,273,Insurance restriction — war zone
+2026-03-10,Jazeera Airways,JA5760,London,Doha,UK,Qatar,Boeing 777-200LR,111,Fuel supply disruption
+2026-03-10,Jazeera Airways,JA3969,Dubai,Singapore,UAE,Singapore,Boeing 787-9 Dreamliner,136,Airport closure — military activity
+2026-03-11,Pakistan International Airlines,PA6673,Tehran,Istanbul,Iran,Turkey,Boeing 777-200LR,91,Temporary corridor suspension — safety bulletin
+2026-03-11,Emirates SkyCargo,EM5752,Dubai,Islamabad,UAE,Pakistan,Airbus A320neo,331,Government travel ban
+2026-03-11,Kuwait Airways,KU2743,Cairo,Dubai,Egypt,UAE,Boeing 787-10 Dreamliner,164,Fuel supply disruption
+2026-03-11,Lufthansa,LU6129,Istanbul,Karachi,Turkey,Pakistan,Airbus A340-600,415,Airspace closure — NOTAM
+2026-03-11,American Airlines,AM5886,Mumbai,Dubai,India,UAE,Airbus A340-600,166,Crew duty-time exceedance after long reroutes
+2026-03-11,Jazeera Airways,JA8109,Dubai,Cairo,UAE,Egypt,Boeing 787-9 Dreamliner,270,ATC flow restrictions — congestion
+2026-03-11,EgyptAir,EG2011,Bahrain,London,Bahrain,UK,Boeing 777-300ER,334,Airport closure — military activity
+2026-03-11,Emirates SkyCargo,EM1754,Dubai,Amman,UAE,Jordan,Airbus A340-600,312,Diplomatic advisory — do not fly
+2026-03-11,Oman Air,OM2930,Dubai,Mumbai,UAE,India,Airbus A321neo,95,Diplomatic advisory — do not fly
+2026-03-11,Iran Air,IR7152,London,Bahrain,UK,Bahrain,Boeing 777-300ER,166,Security risk — conflict zone
+2026-03-11,EgyptAir,EG5667,Cairo,Kuwait City,Egypt,Kuwait,Airbus A320neo,153,Security risk — conflict zone
+2026-03-11,Air India,AI2490,London,Dubai,UK,UAE,Boeing 737-800,240,ATC flow restrictions — congestion
+2026-03-11,Air France,AI3661,Beirut,Paris,Lebanon,France,Boeing 737 MAX 8,221,Airport closure — military activity
+2026-03-11,Air France,AI3548,Tehran,Moscow,Iran,Russia,Airbus A340-600,159,Government travel ban
+2026-03-11,FedEx Express,FE1123,Paris,Doha,France,Qatar,Airbus A350-900,228,Insurance restriction — war zone
+2026-03-11,Etihad Airways,ET1779,Tehran,Istanbul,Iran,Turkey,Airbus A330-300,160,Diplomatic advisory — do not fly
+2026-03-11,Gulf Air,GU9578,Moscow,Tehran,Russia,Iran,Boeing 777-200LR,161,Fuel supply disruption
+2026-03-11,Thai Airways,TH8012,Dubai,Islamabad,UAE,Pakistan,Boeing 777-200LR,235,Airport closure — military activity
+2026-03-11,Etihad Airways,ET9880,Doha,New York,Qatar,USA,Boeing 787-10 Dreamliner,415,Airport closure — military activity
+2026-03-11,Iran Air,IR8430,Doha,Mumbai,Qatar,India,Boeing 777-300ER,366,Government travel ban
+2026-03-11,Mahan Air,MA2635,Kuwait City,London,Kuwait,UK,Boeing 787-9 Dreamliner,329,Airspace closure — NOTAM
+2026-03-12,Iran Air,IR7022,Tehran,Istanbul,Iran,Turkey,Airbus A340-600,266,Airport closure — military activity
+2026-03-12,Cathay Pacific,CA6173,Kuwait City,Mumbai,Kuwait,India,Airbus A321neo,323,Fuel supply disruption
+2026-03-12,KLM,KL2718,Los Angeles,Doha,USA,Qatar,Boeing 737 MAX 8,443,Fuel supply disruption
+2026-03-12,Qatar Airways,QA389,Frankfurt,Dubai,Germany,UAE,Airbus A321neo,135,Fuel supply disruption
+2026-03-12,KLM,KL7899,New York,Doha,USA,Qatar,Boeing 777-300ER,345,Fuel supply disruption
+2026-03-12,Emirates SkyCargo,EM6045,Bahrain,London,Bahrain,UK,Boeing 777-200LR,101,ATC flow restrictions — congestion
+2026-03-12,Gulf Air,GU8270,Dubai,Delhi,UAE,India,Boeing 777-300ER,114,Insurance restriction — war zone
+2026-03-12,Cathay Pacific,CA2011,Istanbul,Delhi,Turkey,India,Airbus A320neo,128,Fuel supply disruption
+2026-03-12,Qatar Airways,QA4259,New York,Dubai,USA,UAE,Airbus A330-300,181,Government travel ban
+2026-03-12,Air France,AI6307,Dubai,Mumbai,UAE,India,Airbus A330-300,98,Fuel supply disruption
+2026-03-12,Singapore Airlines,SI9793,Sydney,Abu Dhabi,Australia,UAE,Airbus A321neo,98,Crew safety — company policy
+2026-03-12,EgyptAir,EG5294,Istanbul,Karachi,Turkey,Pakistan,Boeing 737-800,101,ATC flow restrictions — congestion
+2026-03-12,Ethiopian Airlines,ET883,Frankfurt,Dubai,Germany,UAE,Boeing 787-9 Dreamliner,208,Diplomatic advisory — do not fly
+2026-03-12,Delta Air Lines,DE2030,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A320neo,216,Fuel supply disruption
+2026-03-12,Etihad Airways,ET8574,Beijing,Tehran,China,Iran,Boeing 787-9 Dreamliner,305,Fuel supply disruption
+2026-03-12,Gulf Air,GU9771,Istanbul,Delhi,Turkey,India,Boeing 787-9 Dreamliner,186,Government travel ban
+2026-03-12,DHL Aviation,DH2863,Doha,Paris,Qatar,France,Airbus A380-800,234,Government travel ban
+2026-03-13,Ethiopian Airlines,ET2332,Singapore,Dubai,Singapore,UAE,Airbus A330-300,96,Temporary corridor suspension — safety bulletin
+2026-03-13,Emirates,EM9134,Dubai,Delhi,UAE,India,Airbus A350-900,186,Crew safety — company policy
+2026-03-13,Oman Air,OM9641,Dubai,Frankfurt,UAE,Germany,Boeing 737-800,373,Airspace closure — NOTAM
+2026-03-13,flydubai,FL5101,London,Abu Dhabi,UK,UAE,Airbus A350-900,421,Airport closure — military activity
+2026-03-13,Mahan Air,MA9230,Kuwait City,Mumbai,Kuwait,India,Boeing 777-200LR,131,Diplomatic advisory — do not fly
+2026-03-13,Ethiopian Airlines,ET9661,Kuwait City,Cairo,Kuwait,Egypt,Boeing 737 MAX 8,396,Crew safety — company policy
+2026-03-13,Ethiopian Airlines,ET9803,Dubai,Delhi,UAE,India,Airbus A320neo,235,Insurance restriction — war zone
+2026-03-13,IndiGo,IN4802,Istanbul,Tehran,Turkey,Iran,Airbus A380-800,278,Airspace closure — NOTAM
+2026-03-13,flydubai,FL5417,Dubai,New York,UAE,USA,Airbus A330-300,328,Government travel ban
+2026-03-13,Singapore Airlines,SI6952,New York,Doha,USA,Qatar,Airbus A340-600,356,Diplomatic advisory — do not fly
+2026-03-13,flydubai,FL2829,Dubai,Bahrain,UAE,Bahrain,Boeing 787-9 Dreamliner,99,Fuel supply disruption
+2026-03-13,Qatar Airways,QA5228,Doha,Los Angeles,Qatar,USA,Airbus A350-900,255,Crew duty-time exceedance after long reroutes
+2026-03-13,Qatar Airways,QA9832,Bahrain,London,Bahrain,UK,Airbus A330-300,264,Government travel ban
+2026-03-13,United Airlines,UN7701,Abu Dhabi,London,UAE,UK,Airbus A340-600,166,Fuel supply disruption
+2026-03-13,IndiGo,IN2792,Moscow,Tehran,Russia,Iran,Airbus A321neo,311,Crew duty-time exceedance after long reroutes
+2026-03-14,EgyptAir,EG9007,Cairo,Dubai,Egypt,UAE,Airbus A321neo,202,ATC flow restrictions — congestion
+2026-03-14,Delta Air Lines,DE714,Riyadh,Islamabad,Saudi Arabia,Pakistan,Boeing 787-10 Dreamliner,367,Security risk — conflict zone
+2026-03-14,Qatar Airways,QA6578,Tehran,Beijing,Iran,China,Airbus A320neo,115,Security risk — conflict zone
+2026-03-14,DHL Aviation,DH9381,Dubai,New York,UAE,USA,Boeing 787-9 Dreamliner,308,Insurance restriction — war zone
+2026-03-14,Air India,AI6686,Kuwait City,Cairo,Kuwait,Egypt,Airbus A330-300,209,Government travel ban
+2026-03-14,Emirates SkyCargo,EM7384,Beijing,Tehran,China,Iran,Boeing 777-200LR,285,Airspace closure — NOTAM
+2026-03-14,British Airways,BR9459,Abu Dhabi,Sydney,UAE,Australia,Boeing 737-800,263,Diplomatic advisory — do not fly
+2026-03-14,Delta Air Lines,DE4338,Dubai,Paris,UAE,France,Airbus A320neo,81,Security risk — conflict zone
+2026-03-14,Jazeera Airways,JA7769,Singapore,London,Singapore,UK,Airbus A321neo,305,Insurance restriction — war zone
+2026-03-14,Pakistan International Airlines,PA9406,Abu Dhabi,London,UAE,UK,Airbus A350-900,104,Security risk — conflict zone
+2026-03-14,EgyptAir,EG1990,Sydney,Abu Dhabi,Australia,UAE,Airbus A380-800,80,Diplomatic advisory — do not fly
+2026-03-14,Ethiopian Airlines,ET3609,Dubai,Karachi,UAE,Pakistan,Airbus A350-900,156,Insurance restriction — war zone
+2026-03-14,DHL Aviation,DH5355,Karachi,Dubai,Pakistan,UAE,Boeing 737-800,325,Temporary corridor suspension — safety bulletin
+2026-03-14,Emirates,EM1648,Tehran,Istanbul,Iran,Turkey,Airbus A380-800,300,Crew safety — company policy
+2026-03-14,British Airways,BR9671,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A380-800,333,Temporary corridor suspension — safety bulletin
+2026-03-14,Malaysia Airlines,MA8013,Mumbai,Dubai,India,UAE,Boeing 737 MAX 8,240,ATC flow restrictions — congestion
+2026-03-14,Delta Air Lines,DE2720,Doha,Mumbai,Qatar,India,Airbus A320neo,274,Crew duty-time exceedance after long reroutes
+2026-03-15,Malaysia Airlines,MA8046,Islamabad,Dubai,Pakistan,UAE,Airbus A330-300,379,Temporary corridor suspension — safety bulletin
+2026-03-15,KLM,KL6669,Doha,London,Qatar,UK,Boeing 737 MAX 8,230,Temporary corridor suspension — safety bulletin
+2026-03-15,Thai Airways,TH6755,Cairo,Riyadh,Egypt,Saudi Arabia,Boeing 787-10 Dreamliner,398,Temporary corridor suspension — safety bulletin
+2026-03-15,IndiGo,IN3018,Kuwait City,Mumbai,Kuwait,India,Airbus A320neo,148,ATC flow restrictions — congestion
+2026-03-15,Pakistan International Airlines,PA7752,Abu Dhabi,Sydney,UAE,Australia,Boeing 787-10 Dreamliner,345,ATC flow restrictions — congestion
+2026-03-15,Mahan Air,MA271,Beijing,Tehran,China,Iran,Boeing 777-300ER,209,Fuel supply disruption
+2026-03-15,Cargolux,CA5019,Mumbai,Kuwait City,India,Kuwait,Boeing 737 MAX 8,271,Airspace closure — NOTAM
+2026-03-15,United Airlines,UN5974,Dubai,Islamabad,UAE,Pakistan,Boeing 777-300ER,235,Crew safety — company policy
+2026-03-15,British Airways,BR7628,Doha,Paris,Qatar,France,Airbus A380-800,127,Diplomatic advisory — do not fly
+2026-03-15,Cathay Pacific,CA8715,Los Angeles,Doha,USA,Qatar,Boeing 787-9 Dreamliner,316,Crew safety — company policy
+2026-03-15,Singapore Airlines,SI5227,Cairo,Dubai,Egypt,UAE,Boeing 737 MAX 8,96,Temporary corridor suspension — safety bulletin
+2026-03-15,DHL Aviation,DH5027,Abu Dhabi,Sydney,UAE,Australia,Airbus A350-900,103,Crew safety — company policy
+2026-03-15,Jazeera Airways,JA8269,Paris,Doha,France,Qatar,Airbus A340-600,292,Government travel ban
+2026-03-15,Lufthansa,LU3236,Singapore,Dubai,Singapore,UAE,Airbus A380-800,426,Airport closure — military activity
+2026-03-16,Emirates,EM2864,Washington,Abu Dhabi,USA,UAE,Airbus A340-600,97,Airspace closure — NOTAM
+2026-03-16,Air France,AI1308,Dubai,Mumbai,UAE,India,Airbus A321neo,423,Fuel supply disruption
+2026-03-16,Pakistan International Airlines,PA2846,London,Muscat,UK,Oman,Boeing 777-300ER,191,ATC flow restrictions — congestion
+2026-03-16,Pakistan International Airlines,PA6095,Mumbai,Kuwait City,India,Kuwait,Boeing 787-9 Dreamliner,293,Government travel ban
+2026-03-16,Kuwait Airways,KU4800,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A321neo,410,Airspace closure — NOTAM
+2026-03-16,Qatar Airways,QA2948,Lahore,Doha,Pakistan,Qatar,Boeing 777-300ER,350,Insurance restriction — war zone
+2026-03-16,Etihad Airways,ET4170,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A350-900,114,Diplomatic advisory — do not fly
+2026-03-16,Singapore Airlines,SI739,Tehran,Istanbul,Iran,Turkey,Boeing 787-10 Dreamliner,392,Insurance restriction — war zone
+2026-03-16,United Airlines,UN6451,Doha,Lahore,Qatar,Pakistan,Boeing 787-10 Dreamliner,177,Government travel ban
+2026-03-16,Air Arabia,AI4529,Cairo,Kuwait City,Egypt,Kuwait,Airbus A320neo,295,Government travel ban
+2026-03-16,Air France,AI4482,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A350-900,80,Government travel ban
+2026-03-16,flydubai,FL1997,Kuwait City,Mumbai,Kuwait,India,Airbus A350-900,116,Fuel supply disruption
+2026-03-16,Mahan Air,MA5452,Doha,Lahore,Qatar,Pakistan,Airbus A330-300,254,Airspace closure — NOTAM
+2026-03-16,Delta Air Lines,DE1619,Sydney,Abu Dhabi,Australia,UAE,Boeing 787-9 Dreamliner,331,Fuel supply disruption
+2026-03-16,British Airways,BR1206,Islamabad,Dubai,Pakistan,UAE,Airbus A340-600,177,Crew safety — company policy
+2026-03-16,Thai Airways,TH4744,Istanbul,Tehran,Turkey,Iran,Boeing 777-300ER,274,Diplomatic advisory — do not fly
+2026-03-16,Qatar Airways,QA855,London,Riyadh,UK,Saudi Arabia,Boeing 787-9 Dreamliner,383,Crew safety — company policy
+2026-03-17,Malaysia Airlines,MA5731,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A380-800,86,Government travel ban
+2026-03-17,Emirates SkyCargo,EM7132,Doha,Paris,Qatar,France,Boeing 787-10 Dreamliner,187,Security risk — conflict zone
+2026-03-17,British Airways,BR7406,Dubai,Delhi,UAE,India,Boeing 787-9 Dreamliner,326,Airport closure — military activity
+2026-03-17,Emirates,EM2508,Istanbul,Karachi,Turkey,Pakistan,Airbus A340-600,359,Airspace closure — NOTAM
+2026-03-17,Malaysia Airlines,MA6693,Dubai,Cairo,UAE,Egypt,Airbus A350-900,300,ATC flow restrictions — congestion
+2026-03-17,Jazeera Airways,JA4952,Washington,Abu Dhabi,USA,UAE,Airbus A340-600,263,Crew safety — company policy
+2026-03-17,Ethiopian Airlines,ET6351,Delhi,Dubai,India,UAE,Boeing 737-800,383,Government travel ban
+2026-03-17,Cargolux,CA5331,Doha,New York,Qatar,USA,Airbus A330-300,153,Crew safety — company policy
+2026-03-17,Air India,AI7419,Dubai,Cairo,UAE,Egypt,Boeing 787-10 Dreamliner,93,Fuel supply disruption
+2026-03-17,Mahan Air,MA3616,Istanbul,Dubai,Turkey,UAE,Boeing 787-9 Dreamliner,106,Crew duty-time exceedance after long reroutes
+2026-03-17,Emirates,EM4163,Dubai,Frankfurt,UAE,Germany,Boeing 777-200LR,211,Diplomatic advisory — do not fly
+2026-03-17,Saudi Arabian Airlines,SA1816,Dubai,Frankfurt,UAE,Germany,Airbus A330-300,177,ATC flow restrictions — congestion
+2026-03-17,Cathay Pacific,CA9852,Dubai,New York,UAE,USA,Airbus A380-800,399,Airport closure — military activity
+2026-03-17,Pakistan International Airlines,PA7226,Tehran,Moscow,Iran,Russia,Boeing 787-9 Dreamliner,346,Diplomatic advisory — do not fly
+2026-03-17,Singapore Airlines,SI3930,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 737 MAX 8,396,Airspace closure — NOTAM
+2026-03-17,flydubai,FL7712,Paris,Doha,France,Qatar,Airbus A340-600,191,Airspace closure — NOTAM
+2026-03-17,Ethiopian Airlines,ET8439,Moscow,Tehran,Russia,Iran,Boeing 777-200LR,372,Insurance restriction — war zone
+2026-03-17,Emirates,EM5339,Doha,Mumbai,Qatar,India,Boeing 787-9 Dreamliner,254,Government travel ban
+2026-03-17,British Airways,BR4739,Dubai,Amman,UAE,Jordan,Boeing 787-10 Dreamliner,199,Diplomatic advisory — do not fly
+2026-03-17,Ethiopian Airlines,ET3975,Dubai,New York,UAE,USA,Airbus A330-300,98,Fuel supply disruption
+2026-03-17,United Airlines,UN4224,London,Riyadh,UK,Saudi Arabia,Boeing 737 MAX 8,315,Airport closure — military activity
+2026-03-17,Air Arabia,AI8043,Dubai,Amman,UAE,Jordan,Boeing 777-300ER,261,Temporary corridor suspension — safety bulletin
+2026-03-17,Jazeera Airways,JA3809,Washington,Abu Dhabi,USA,UAE,Airbus A340-600,373,Crew safety — company policy
+2026-03-17,Air India,AI2105,Beijing,Tehran,China,Iran,Boeing 737-800,206,Security risk — conflict zone
+2026-03-17,Thai Airways,TH7028,Bahrain,Dubai,Bahrain,UAE,Boeing 777-300ER,277,Airspace closure — NOTAM
+2026-03-17,IndiGo,IN567,Doha,Mumbai,Qatar,India,Airbus A320neo,169,Fuel supply disruption
+2026-03-18,Ethiopian Airlines,ET6348,Sydney,Dubai,Australia,UAE,Airbus A321neo,162,ATC flow restrictions — congestion
+2026-03-18,DHL Aviation,DH9017,London,Singapore,UK,Singapore,Airbus A340-600,190,Airport closure — military activity
+2026-03-18,DHL Aviation,DH9240,Istanbul,Dubai,Turkey,UAE,Boeing 787-9 Dreamliner,137,Crew duty-time exceedance after long reroutes
+2026-03-18,Singapore Airlines,SI6816,Paris,Dubai,France,UAE,Boeing 787-9 Dreamliner,351,Fuel supply disruption
+2026-03-18,Qatar Airways,QA885,Dubai,Sydney,UAE,Australia,Boeing 737 MAX 8,276,Insurance restriction — war zone
+2026-03-18,flydubai,FL5458,Paris,Doha,France,Qatar,Airbus A350-900,361,Security risk — conflict zone
+2026-03-18,Air France,AI579,Abu Dhabi,Washington,UAE,USA,Airbus A330-300,323,Airspace closure — NOTAM
+2026-03-18,Ethiopian Airlines,ET1322,London,Bahrain,UK,Bahrain,Boeing 737-800,119,Crew duty-time exceedance after long reroutes
+2026-03-18,Air India,AI6886,Dubai,Paris,UAE,France,Boeing 787-10 Dreamliner,229,Airspace closure — NOTAM
+2026-03-18,United Airlines,UN9049,Doha,Los Angeles,Qatar,USA,Airbus A340-600,332,Temporary corridor suspension — safety bulletin
+2026-03-18,Malaysia Airlines,MA9552,Tehran,Moscow,Iran,Russia,Boeing 777-200LR,439,Diplomatic advisory — do not fly
+2026-03-18,EgyptAir,EG3780,Dubai,Frankfurt,UAE,Germany,Airbus A330-300,397,Government travel ban
+2026-03-18,IndiGo,IN9610,Abu Dhabi,Washington,UAE,USA,Airbus A380-800,307,Diplomatic advisory — do not fly
+2026-03-18,British Airways,BR5671,Delhi,Dubai,India,UAE,Boeing 737 MAX 8,404,Airport closure — military activity
+2026-03-18,Qatar Airways,QA6968,Dubai,Cairo,UAE,Egypt,Boeing 777-300ER,251,Airspace closure — NOTAM
+2026-03-18,Emirates SkyCargo,EM488,Istanbul,Tehran,Turkey,Iran,Boeing 787-10 Dreamliner,241,Airspace closure — NOTAM
+2026-03-18,United Airlines,UN9205,Dubai,Karachi,UAE,Pakistan,Airbus A330-300,188,Airspace closure — NOTAM
+2026-03-18,Thai Airways,TH7280,Muscat,London,Oman,UK,Airbus A380-800,389,Insurance restriction — war zone
+2026-03-18,Air Arabia,AI8948,Islamabad,Dubai,Pakistan,UAE,Boeing 787-9 Dreamliner,317,Airspace closure — NOTAM
+2026-03-19,Etihad Airways,ET1233,Dubai,Bahrain,UAE,Bahrain,Boeing 787-10 Dreamliner,143,Crew safety — company policy
+2026-03-19,Emirates,EM7940,Bahrain,Dubai,Bahrain,UAE,Airbus A340-600,343,Temporary corridor suspension — safety bulletin
+2026-03-19,DHL Aviation,DH7133,Dubai,Paris,UAE,France,Airbus A330-300,168,Temporary corridor suspension — safety bulletin
+2026-03-19,Qatar Airways,QA1636,Amman,Dubai,Jordan,UAE,Boeing 737-800,335,Temporary corridor suspension — safety bulletin
+2026-03-19,Jazeera Airways,JA6607,London,Singapore,UK,Singapore,Airbus A340-600,395,Fuel supply disruption
+2026-03-19,Saudi Arabian Airlines,SA4486,Singapore,London,Singapore,UK,Airbus A330-300,335,Security risk — conflict zone
+2026-03-19,DHL Aviation,DH155,London,Riyadh,UK,Saudi Arabia,Airbus A380-800,234,Airspace closure — NOTAM
+2026-03-19,Air Arabia,AI8202,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A350-900,270,Insurance restriction — war zone
+2026-03-19,United Airlines,UN3380,Dubai,New York,UAE,USA,Boeing 777-200LR,424,Fuel supply disruption
+2026-03-19,flydubai,FL545,London,Singapore,UK,Singapore,Airbus A350-900,231,Fuel supply disruption
+2026-03-19,Emirates SkyCargo,EM3197,Amman,Dubai,Jordan,UAE,Boeing 777-200LR,287,Fuel supply disruption
+2026-03-19,Pakistan International Airlines,PA3883,Delhi,Dubai,India,UAE,Boeing 777-300ER,167,Insurance restriction — war zone
+2026-03-19,IndiGo,IN2845,Riyadh,London,Saudi Arabia,UK,Boeing 787-10 Dreamliner,197,Fuel supply disruption
+2026-03-19,Saudi Arabian Airlines,SA5489,London,Singapore,UK,Singapore,Airbus A330-300,444,Security risk — conflict zone
+2026-03-19,Gulf Air,GU7964,Doha,Paris,Qatar,France,Airbus A320neo,125,Insurance restriction — war zone
+2026-03-19,Turkish Airlines,TU705,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A380-800,188,Fuel supply disruption
+2026-03-20,Turkish Airlines,TU7777,London,Bahrain,UK,Bahrain,Airbus A340-600,209,Crew safety — company policy
+2026-03-20,Emirates SkyCargo,EM9065,London,Bahrain,UK,Bahrain,Airbus A380-800,445,Insurance restriction — war zone
+2026-03-20,KLM,KL1941,Dubai,Karachi,UAE,Pakistan,Airbus A330-300,341,Fuel supply disruption
+2026-03-20,IndiGo,IN5378,New York,Doha,USA,Qatar,Boeing 787-9 Dreamliner,429,Security risk — conflict zone
+2026-03-20,FedEx Express,FE8868,Dubai,Singapore,UAE,Singapore,Airbus A350-900,379,Diplomatic advisory — do not fly
+2026-03-20,Iran Air,IR5946,Doha,New York,Qatar,USA,Airbus A320neo,430,Crew duty-time exceedance after long reroutes
+2026-03-20,IndiGo,IN8614,Dubai,Singapore,UAE,Singapore,Airbus A350-900,231,Insurance restriction — war zone
+2026-03-20,Turkish Airlines,TU8492,Mumbai,Doha,India,Qatar,Boeing 777-200LR,216,ATC flow restrictions — congestion
+2026-03-20,Gulf Air,GU2504,Washington,Abu Dhabi,USA,UAE,Airbus A330-300,424,Fuel supply disruption
+2026-03-20,Qatar Airways,QA5382,Istanbul,Tehran,Turkey,Iran,Boeing 737-800,113,Temporary corridor suspension — safety bulletin
+2026-03-20,FedEx Express,FE6381,Doha,Lahore,Qatar,Pakistan,Boeing 777-200LR,91,Airport closure — military activity
+2026-03-20,Saudi Arabian Airlines,SA3292,Cairo,Riyadh,Egypt,Saudi Arabia,Boeing 787-10 Dreamliner,160,Temporary corridor suspension — safety bulletin
+2026-03-20,Iran Air,IR7025,London,Bahrain,UK,Bahrain,Boeing 737 MAX 8,183,ATC flow restrictions — congestion
+2026-03-20,FedEx Express,FE3975,Dubai,Frankfurt,UAE,Germany,Airbus A380-800,393,Temporary corridor suspension — safety bulletin
+2026-03-20,DHL Aviation,DH5696,Karachi,Istanbul,Pakistan,Turkey,Airbus A350-900,377,Temporary corridor suspension — safety bulletin
+2026-03-20,Cathay Pacific,CA2825,Karachi,Istanbul,Pakistan,Turkey,Airbus A340-600,290,Fuel supply disruption
+2026-03-20,Turkish Airlines,TU6636,Dubai,Frankfurt,UAE,Germany,Boeing 787-9 Dreamliner,190,Government travel ban
+2026-03-20,Thai Airways,TH8638,Paris,Doha,France,Qatar,Boeing 787-10 Dreamliner,223,Fuel supply disruption
+2026-03-20,Lufthansa,LU8485,Bahrain,London,Bahrain,UK,Airbus A350-900,340,Security risk — conflict zone
+2026-03-20,FedEx Express,FE2056,London,Singapore,UK,Singapore,Boeing 787-10 Dreamliner,271,Temporary corridor suspension — safety bulletin
+2026-03-20,KLM,KL6190,Kuwait City,Cairo,Kuwait,Egypt,Boeing 787-10 Dreamliner,170,Security risk — conflict zone
+2026-03-20,DHL Aviation,DH7769,Cairo,Dubai,Egypt,UAE,Boeing 737-800,392,Diplomatic advisory — do not fly
+2026-03-20,Singapore Airlines,SI860,Doha,Paris,Qatar,France,Boeing 737-800,321,Airspace closure — NOTAM
+2026-03-20,Delta Air Lines,DE2172,Sydney,Dubai,Australia,UAE,Boeing 737 MAX 8,188,Airport closure — military activity
+2026-03-20,Air Arabia,AI7179,Mumbai,Dubai,India,UAE,Airbus A340-600,282,Temporary corridor suspension — safety bulletin
+2026-03-20,United Airlines,UN1982,Riyadh,London,Saudi Arabia,UK,Boeing 787-10 Dreamliner,138,Diplomatic advisory — do not fly
+2026-03-21,FedEx Express,FE2355,Dubai,Karachi,UAE,Pakistan,Airbus A380-800,156,Crew safety — company policy
+2026-03-21,FedEx Express,FE680,Islamabad,Dubai,Pakistan,UAE,Airbus A330-300,121,Temporary corridor suspension — safety bulletin
+2026-03-21,Air Arabia,AI9037,Bahrain,London,Bahrain,UK,Airbus A320neo,139,Government travel ban
+2026-03-21,Oman Air,OM2246,Sydney,Abu Dhabi,Australia,UAE,Airbus A340-600,383,Airport closure — military activity
+2026-03-21,Iran Air,IR5809,London,Muscat,UK,Oman,Airbus A320neo,148,Airport closure — military activity
+2026-03-21,Kuwait Airways,KU7653,Doha,New York,Qatar,USA,Boeing 737 MAX 8,325,Crew duty-time exceedance after long reroutes
+2026-03-21,Air Arabia,AI5193,Doha,Paris,Qatar,France,Airbus A380-800,157,ATC flow restrictions — congestion
+2026-03-21,Cathay Pacific,CA1456,Mumbai,Dubai,India,UAE,Airbus A321neo,396,Airport closure — military activity
+2026-03-21,Qatar Airways,QA3752,Dubai,Karachi,UAE,Pakistan,Boeing 777-300ER,236,Airspace closure — NOTAM
+2026-03-21,Lufthansa,LU9111,Abu Dhabi,Washington,UAE,USA,Airbus A340-600,350,Diplomatic advisory — do not fly
+2026-03-21,Jazeera Airways,JA323,Dubai,Frankfurt,UAE,Germany,Boeing 737-800,194,Airspace closure — NOTAM
+2026-03-21,Cathay Pacific,CA2242,Doha,New York,Qatar,USA,Airbus A380-800,169,Crew safety — company policy
+2026-03-21,Delta Air Lines,DE4362,Riyadh,Islamabad,Saudi Arabia,Pakistan,Boeing 777-200LR,202,ATC flow restrictions — congestion
+2026-03-21,Mahan Air,MA546,Los Angeles,Doha,USA,Qatar,Airbus A350-900,107,Temporary corridor suspension — safety bulletin
+2026-03-21,Etihad Airways,ET306,Cairo,Kuwait City,Egypt,Kuwait,Boeing 737 MAX 8,254,Government travel ban
+2026-03-21,flydubai,FL6978,Abu Dhabi,London,UAE,UK,Airbus A321neo,258,Security risk — conflict zone
+2026-03-21,Etihad Airways,ET298,Los Angeles,Doha,USA,Qatar,Airbus A340-600,410,Security risk — conflict zone
+2026-03-21,Air Arabia,AI8201,London,Riyadh,UK,Saudi Arabia,Airbus A320neo,155,Fuel supply disruption
+2026-03-21,British Airways,BR4387,London,Doha,UK,Qatar,Airbus A320neo,212,Crew duty-time exceedance after long reroutes
+2026-03-22,flydubai,FL4870,Dubai,Amman,UAE,Jordan,Boeing 737 MAX 8,356,Airport closure — military activity
+2026-03-22,Jazeera Airways,JA2101,Dubai,Frankfurt,UAE,Germany,Boeing 787-9 Dreamliner,301,Diplomatic advisory — do not fly
+2026-03-22,Air Arabia,AI9749,Abu Dhabi,Washington,UAE,USA,Boeing 777-300ER,147,Temporary corridor suspension — safety bulletin
+2026-03-22,Emirates,EM9056,Mumbai,Kuwait City,India,Kuwait,Boeing 737-800,250,Crew safety — company policy
+2026-03-22,Oman Air,OM2443,Dubai,Frankfurt,UAE,Germany,Boeing 737-800,388,Government travel ban
+2026-03-22,IndiGo,IN3166,New York,Dubai,USA,UAE,Boeing 777-300ER,409,Crew safety — company policy
+2026-03-22,flydubai,FL7913,Paris,Doha,France,Qatar,Boeing 737-800,235,Government travel ban
+2026-03-22,British Airways,BR9377,Paris,Beirut,France,Lebanon,Airbus A330-300,369,Government travel ban
+2026-03-22,Etihad Airways,ET2025,Doha,New York,Qatar,USA,Boeing 777-200LR,259,Insurance restriction — war zone
+2026-03-22,Etihad Airways,ET8686,Istanbul,Delhi,Turkey,India,Boeing 737-800,404,Airport closure — military activity
+2026-03-22,Lufthansa,LU632,Singapore,London,Singapore,UK,Boeing 777-200LR,141,Crew safety — company policy
+2026-03-22,EgyptAir,EG9550,Dubai,Karachi,UAE,Pakistan,Airbus A330-300,296,Airspace closure — NOTAM
+2026-03-22,EgyptAir,EG8508,Sydney,Abu Dhabi,Australia,UAE,Airbus A330-300,267,Crew safety — company policy
+2026-03-22,Singapore Airlines,SI7825,Dubai,Frankfurt,UAE,Germany,Airbus A380-800,192,Temporary corridor suspension — safety bulletin
+2026-03-22,EgyptAir,EG2605,New York,Dubai,USA,UAE,Boeing 787-9 Dreamliner,87,Temporary corridor suspension — safety bulletin
+2026-03-23,American Airlines,AM6868,London,Muscat,UK,Oman,Boeing 737 MAX 8,83,Government travel ban
+2026-03-23,Thai Airways,TH5221,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 777-200LR,101,Fuel supply disruption
+2026-03-23,DHL Aviation,DH674,Dubai,Karachi,UAE,Pakistan,Airbus A380-800,204,Crew duty-time exceedance after long reroutes
+2026-03-23,Jazeera Airways,JA1963,Dubai,Frankfurt,UAE,Germany,Airbus A321neo,323,Crew duty-time exceedance after long reroutes
+2026-03-23,Delta Air Lines,DE6848,Doha,Los Angeles,Qatar,USA,Boeing 737-800,214,Security risk — conflict zone
+2026-03-23,Etihad Airways,ET8205,London,Kuwait City,UK,Kuwait,Boeing 777-300ER,289,Crew duty-time exceedance after long reroutes
+2026-03-23,Thai Airways,TH3679,London,Muscat,UK,Oman,Boeing 787-9 Dreamliner,361,Government travel ban
+2026-03-23,Qatar Airways,QA224,Dubai,Karachi,UAE,Pakistan,Boeing 737 MAX 8,337,Diplomatic advisory — do not fly
+2026-03-23,Qatar Airways,QA4769,Beirut,Paris,Lebanon,France,Boeing 787-9 Dreamliner,85,Temporary corridor suspension — safety bulletin
+2026-03-23,British Airways,BR9949,Mumbai,Doha,India,Qatar,Airbus A321neo,94,Temporary corridor suspension — safety bulletin
+2026-03-23,Oman Air,OM220,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A380-800,254,Airport closure — military activity
+2026-03-23,Mahan Air,MA1749,London,Riyadh,UK,Saudi Arabia,Airbus A320neo,267,Fuel supply disruption
+2026-03-23,Oman Air,OM4838,Amman,Dubai,Jordan,UAE,Boeing 777-300ER,96,Fuel supply disruption
+2026-03-23,Mahan Air,MA8039,Doha,London,Qatar,UK,Boeing 787-9 Dreamliner,117,Diplomatic advisory — do not fly
+2026-03-23,Ethiopian Airlines,ET9327,Frankfurt,Dubai,Germany,UAE,Airbus A321neo,382,Diplomatic advisory — do not fly
+2026-03-23,Malaysia Airlines,MA6665,Doha,Mumbai,Qatar,India,Airbus A340-600,313,Temporary corridor suspension — safety bulletin
+2026-03-23,Ethiopian Airlines,ET6211,Islamabad,Riyadh,Pakistan,Saudi Arabia,Boeing 777-300ER,155,Government travel ban
+2026-03-23,Mahan Air,MA3182,Dubai,New York,UAE,USA,Airbus A350-900,376,Insurance restriction — war zone
+2026-03-23,Malaysia Airlines,MA105,Dubai,Bahrain,UAE,Bahrain,Airbus A350-900,216,Fuel supply disruption
+2026-03-23,Delta Air Lines,DE4659,Kuwait City,Mumbai,Kuwait,India,Airbus A350-900,315,ATC flow restrictions — congestion
+2026-03-24,Qatar Airways,QA2566,Frankfurt,Dubai,Germany,UAE,Boeing 777-200LR,404,ATC flow restrictions — congestion
+2026-03-24,Singapore Airlines,SI1425,Istanbul,Karachi,Turkey,Pakistan,Boeing 787-10 Dreamliner,411,Airspace closure — NOTAM
+2026-03-24,Malaysia Airlines,MA5937,Tehran,Istanbul,Iran,Turkey,Boeing 777-300ER,446,Diplomatic advisory — do not fly
+2026-03-24,Oman Air,OM5039,Sydney,Abu Dhabi,Australia,UAE,Boeing 787-10 Dreamliner,135,Insurance restriction — war zone
+2026-03-24,Gulf Air,GU9150,Kuwait City,Cairo,Kuwait,Egypt,Boeing 787-9 Dreamliner,142,Airport closure — military activity
+2026-03-24,Thai Airways,TH4085,Doha,Paris,Qatar,France,Boeing 787-9 Dreamliner,242,Fuel supply disruption
+2026-03-24,Turkish Airlines,TU7196,Doha,Paris,Qatar,France,Boeing 777-300ER,183,Crew duty-time exceedance after long reroutes
+2026-03-24,British Airways,BR8453,Abu Dhabi,Washington,UAE,USA,Boeing 737-800,212,Airport closure — military activity
+2026-03-24,Iran Air,IR4833,Sydney,Dubai,Australia,UAE,Boeing 787-9 Dreamliner,370,Airspace closure — NOTAM
+2026-03-24,Lufthansa,LU7528,Istanbul,Karachi,Turkey,Pakistan,Boeing 787-10 Dreamliner,281,Airport closure — military activity
+2026-03-24,United Airlines,UN2951,New York,Doha,USA,Qatar,Boeing 737-800,226,Crew safety — company policy
+2026-03-24,Malaysia Airlines,MA7206,Cairo,Kuwait City,Egypt,Kuwait,Airbus A330-300,201,Fuel supply disruption
+2026-03-24,Emirates SkyCargo,EM2859,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 787-10 Dreamliner,148,Diplomatic advisory — do not fly
+2026-03-24,Air France,AI4335,Cairo,Kuwait City,Egypt,Kuwait,Airbus A320neo,269,ATC flow restrictions — congestion
+2026-03-24,EgyptAir,EG7062,Doha,Lahore,Qatar,Pakistan,Boeing 777-300ER,149,Crew duty-time exceedance after long reroutes
+2026-03-24,Iran Air,IR6901,Frankfurt,Dubai,Germany,UAE,Airbus A380-800,419,Government travel ban
+2026-03-24,Gulf Air,GU7557,New York,Doha,USA,Qatar,Boeing 787-10 Dreamliner,428,Insurance restriction — war zone
+2026-03-24,Iran Air,IR7815,Dubai,Istanbul,UAE,Turkey,Airbus A320neo,177,Crew safety — company policy
+2026-03-25,Jazeera Airways,JA3714,Karachi,Dubai,Pakistan,UAE,Airbus A340-600,195,Airport closure — military activity
+2026-03-25,Air Arabia,AI5921,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A340-600,361,Government travel ban
+2026-03-25,EgyptAir,EG5518,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 737 MAX 8,125,Crew safety — company policy
+2026-03-25,Singapore Airlines,SI8434,Dubai,Frankfurt,UAE,Germany,Boeing 737-800,99,Crew duty-time exceedance after long reroutes
+2026-03-25,United Airlines,UN3780,Bahrain,London,Bahrain,UK,Boeing 737 MAX 8,407,Fuel supply disruption
+2026-03-25,FedEx Express,FE1153,Istanbul,Delhi,Turkey,India,Boeing 737-800,121,Airspace closure — NOTAM
+2026-03-25,Etihad Airways,ET4743,Riyadh,Islamabad,Saudi Arabia,Pakistan,Boeing 777-200LR,106,Diplomatic advisory — do not fly
+2026-03-25,FedEx Express,FE3467,Delhi,Dubai,India,UAE,Airbus A320neo,161,Airport closure — military activity
+2026-03-25,Malaysia Airlines,MA636,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A330-300,98,Airport closure — military activity
+2026-03-25,Pakistan International Airlines,PA2582,Doha,Los Angeles,Qatar,USA,Boeing 787-9 Dreamliner,308,ATC flow restrictions — congestion
+2026-03-25,Emirates,EM9369,Tehran,Istanbul,Iran,Turkey,Boeing 737-800,326,Airport closure — military activity
+2026-03-25,EgyptAir,EG5712,New York,Doha,USA,Qatar,Boeing 777-300ER,401,Airport closure — military activity
+2026-03-25,Ethiopian Airlines,ET5541,Doha,New York,Qatar,USA,Boeing 737 MAX 8,91,Insurance restriction — war zone
+2026-03-25,EgyptAir,EG7589,Dubai,Frankfurt,UAE,Germany,Boeing 737 MAX 8,221,Crew duty-time exceedance after long reroutes
+2026-03-25,Delta Air Lines,DE7063,Doha,Los Angeles,Qatar,USA,Boeing 737 MAX 8,271,Airspace closure — NOTAM
+2026-03-25,IndiGo,IN9350,Dubai,Bahrain,UAE,Bahrain,Airbus A320neo,264,Crew duty-time exceedance after long reroutes
+2026-03-25,Turkish Airlines,TU4311,Mumbai,Dubai,India,UAE,Boeing 777-200LR,87,Airspace closure — NOTAM
+2026-03-25,American Airlines,AM8719,Lahore,Doha,Pakistan,Qatar,Boeing 777-300ER,262,Fuel supply disruption
+2026-03-25,IndiGo,IN7872,Paris,Beirut,France,Lebanon,Airbus A330-300,141,Temporary corridor suspension — safety bulletin
+2026-03-25,Malaysia Airlines,MA271,Beijing,Tehran,China,Iran,Airbus A340-600,221,Government travel ban
+2026-03-25,Oman Air,OM1888,Bahrain,London,Bahrain,UK,Boeing 787-10 Dreamliner,229,Crew duty-time exceedance after long reroutes
+2026-03-25,Singapore Airlines,SI6258,Dubai,New York,UAE,USA,Boeing 777-300ER,384,Fuel supply disruption
+2026-03-25,flydubai,FL3938,Mumbai,Doha,India,Qatar,Airbus A320neo,153,Temporary corridor suspension — safety bulletin
+2026-03-25,British Airways,BR7514,Dubai,Delhi,UAE,India,Boeing 787-9 Dreamliner,445,ATC flow restrictions — congestion
+2026-03-25,United Airlines,UN3681,London,Doha,UK,Qatar,Airbus A340-600,437,ATC flow restrictions — congestion
+2026-03-25,DHL Aviation,DH1881,Islamabad,Riyadh,Pakistan,Saudi Arabia,Boeing 737 MAX 8,101,Security risk — conflict zone
+2026-03-26,FedEx Express,FE3828,Karachi,Dubai,Pakistan,UAE,Boeing 777-200LR,450,Airspace closure — NOTAM
+2026-03-26,Lufthansa,LU1912,Dubai,Delhi,UAE,India,Airbus A320neo,377,Security risk — conflict zone
+2026-03-26,American Airlines,AM9042,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 737-800,262,Airport closure — military activity
+2026-03-26,Kuwait Airways,KU2902,London,Singapore,UK,Singapore,Boeing 737-800,418,Crew duty-time exceedance after long reroutes
+2026-03-26,Lufthansa,LU1557,Istanbul,Tehran,Turkey,Iran,Airbus A330-300,159,Security risk — conflict zone
+2026-03-26,Emirates SkyCargo,EM6884,London,Doha,UK,Qatar,Boeing 737 MAX 8,443,Crew safety — company policy
+2026-03-26,Emirates,EM6086,Riyadh,London,Saudi Arabia,UK,Boeing 777-300ER,396,Security risk — conflict zone
+2026-03-26,Delta Air Lines,DE2190,Istanbul,Tehran,Turkey,Iran,Boeing 787-9 Dreamliner,450,Airspace closure — NOTAM
+2026-03-26,DHL Aviation,DH2169,Doha,Paris,Qatar,France,Boeing 787-9 Dreamliner,224,Fuel supply disruption
+2026-03-26,Emirates,EM5175,Doha,Los Angeles,Qatar,USA,Boeing 777-300ER,105,Temporary corridor suspension — safety bulletin
+2026-03-26,Oman Air,OM9659,Doha,London,Qatar,UK,Boeing 777-300ER,163,Airport closure — military activity
+2026-03-26,Oman Air,OM4670,Cairo,Dubai,Egypt,UAE,Boeing 777-300ER,396,Crew duty-time exceedance after long reroutes
+2026-03-26,Saudi Arabian Airlines,SA4592,Dubai,New York,UAE,USA,Airbus A380-800,98,Diplomatic advisory — do not fly
+2026-03-26,British Airways,BR4963,Abu Dhabi,Washington,UAE,USA,Boeing 737-800,242,Diplomatic advisory — do not fly
+2026-03-26,Turkish Airlines,TU1764,London,Singapore,UK,Singapore,Airbus A380-800,438,Insurance restriction — war zone
+2026-03-26,Delta Air Lines,DE2813,Dubai,Istanbul,UAE,Turkey,Boeing 787-10 Dreamliner,186,Security risk — conflict zone
+2026-03-26,Etihad Airways,ET1271,Cairo,Kuwait City,Egypt,Kuwait,Airbus A321neo,124,Fuel supply disruption
+2026-03-26,Etihad Airways,ET1398,Dubai,Mumbai,UAE,India,Boeing 787-10 Dreamliner,190,Airspace closure — NOTAM
+2026-03-26,Turkish Airlines,TU8955,Dubai,Paris,UAE,France,Airbus A330-300,357,Government travel ban
+2026-03-26,Cargolux,CA9631,Karachi,Istanbul,Pakistan,Turkey,Boeing 777-300ER,290,Security risk — conflict zone
+2026-03-26,Lufthansa,LU9577,Kuwait City,Cairo,Kuwait,Egypt,Boeing 737-800,448,Crew safety — company policy
+2026-03-27,Delta Air Lines,DE3392,London,Singapore,UK,Singapore,Boeing 787-9 Dreamliner,283,Diplomatic advisory — do not fly
+2026-03-27,IndiGo,IN875,Doha,New York,Qatar,USA,Boeing 787-9 Dreamliner,229,Diplomatic advisory — do not fly
+2026-03-27,Qatar Airways,QA307,Dubai,Istanbul,UAE,Turkey,Boeing 737-800,407,ATC flow restrictions — congestion
+2026-03-27,Air Arabia,AI8836,Paris,Dubai,France,UAE,Airbus A330-300,384,ATC flow restrictions — congestion
+2026-03-27,Cathay Pacific,CA5503,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A380-800,396,Fuel supply disruption
+2026-03-27,Qatar Airways,QA7384,Dubai,New York,UAE,USA,Boeing 737 MAX 8,444,Fuel supply disruption
+2026-03-27,Pakistan International Airlines,PA4844,Tehran,Istanbul,Iran,Turkey,Boeing 737 MAX 8,90,Insurance restriction — war zone
+2026-03-27,Cathay Pacific,CA8636,Karachi,Istanbul,Pakistan,Turkey,Airbus A330-300,219,Government travel ban
+2026-03-27,Iran Air,IR8321,Karachi,Istanbul,Pakistan,Turkey,Boeing 787-10 Dreamliner,91,ATC flow restrictions — congestion
+2026-03-27,Turkish Airlines,TU6105,Beijing,Tehran,China,Iran,Boeing 787-9 Dreamliner,261,Fuel supply disruption
+2026-03-27,Singapore Airlines,SI3191,Doha,New York,Qatar,USA,Airbus A340-600,402,Airspace closure — NOTAM
+2026-03-27,Saudi Arabian Airlines,SA9413,Islamabad,Riyadh,Pakistan,Saudi Arabia,Airbus A340-600,205,ATC flow restrictions — congestion
+2026-03-27,Ethiopian Airlines,ET4887,Dubai,New York,UAE,USA,Boeing 787-9 Dreamliner,247,Temporary corridor suspension — safety bulletin
+2026-03-27,FedEx Express,FE7997,Sydney,Abu Dhabi,Australia,UAE,Airbus A330-300,141,Temporary corridor suspension — safety bulletin
+2026-03-27,Singapore Airlines,SI1245,Karachi,Istanbul,Pakistan,Turkey,Boeing 737 MAX 8,414,Airspace closure — NOTAM
+2026-03-27,Cathay Pacific,CA2564,Istanbul,Tehran,Turkey,Iran,Boeing 787-10 Dreamliner,290,Temporary corridor suspension — safety bulletin
+2026-03-28,Thai Airways,TH6177,Doha,Paris,Qatar,France,Boeing 787-9 Dreamliner,418,Crew duty-time exceedance after long reroutes
+2026-03-28,KLM,KL2513,Dubai,Delhi,UAE,India,Boeing 787-10 Dreamliner,246,Security risk — conflict zone
+2026-03-28,Cathay Pacific,CA112,Dubai,Bahrain,UAE,Bahrain,Boeing 737 MAX 8,261,Crew safety — company policy
+2026-03-28,Lufthansa,LU2129,Dubai,Istanbul,UAE,Turkey,Boeing 737-800,192,Airport closure — military activity
+2026-03-28,flydubai,FL7304,Doha,Mumbai,Qatar,India,Airbus A380-800,401,Crew duty-time exceedance after long reroutes
+2026-03-28,Air India,AI8243,Dubai,Singapore,UAE,Singapore,Boeing 737-800,129,Security risk — conflict zone
+2026-03-28,Air India,AI1428,Bahrain,Dubai,Bahrain,UAE,Boeing 787-9 Dreamliner,303,ATC flow restrictions — congestion
+2026-03-28,Pakistan International Airlines,PA4420,Dubai,Karachi,UAE,Pakistan,Boeing 787-9 Dreamliner,303,Insurance restriction — war zone
+2026-03-28,Gulf Air,GU1698,Dubai,Amman,UAE,Jordan,Airbus A330-300,405,Airport closure — military activity
+2026-03-28,Etihad Airways,ET1250,Dubai,Karachi,UAE,Pakistan,Boeing 737 MAX 8,311,Crew duty-time exceedance after long reroutes
+2026-03-28,British Airways,BR8051,Sydney,Dubai,Australia,UAE,Boeing 787-10 Dreamliner,136,Security risk — conflict zone
+2026-03-28,flydubai,FL6339,Bahrain,Dubai,Bahrain,UAE,Airbus A330-300,304,Diplomatic advisory — do not fly
+2026-03-28,Kuwait Airways,KU2200,Los Angeles,Doha,USA,Qatar,Airbus A330-300,265,Government travel ban
+2026-03-28,Mahan Air,MA6092,Paris,Doha,France,Qatar,Airbus A380-800,284,Crew safety — company policy
+2026-03-28,United Airlines,UN8863,Kuwait City,Mumbai,Kuwait,India,Boeing 737 MAX 8,226,ATC flow restrictions — congestion
+2026-03-28,British Airways,BR4994,Dubai,New York,UAE,USA,Boeing 787-10 Dreamliner,228,Security risk — conflict zone
+2026-03-28,American Airlines,AM742,Cairo,Dubai,Egypt,UAE,Airbus A350-900,180,Government travel ban
+2026-03-28,FedEx Express,FE2442,London,Dubai,UK,UAE,Boeing 777-300ER,263,Fuel supply disruption
+2026-03-29,IndiGo,IN1437,Paris,Doha,France,Qatar,Airbus A320neo,185,Insurance restriction — war zone
+2026-03-29,Iran Air,IR7538,London,Bahrain,UK,Bahrain,Boeing 737-800,114,Temporary corridor suspension — safety bulletin
+2026-03-29,Air India,AI5360,Doha,Lahore,Qatar,Pakistan,Airbus A350-900,93,ATC flow restrictions — congestion
+2026-03-29,Iran Air,IR5886,Tehran,Beijing,Iran,China,Boeing 777-300ER,252,Airport closure — military activity
+2026-03-29,Lufthansa,LU7030,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A380-800,217,Diplomatic advisory — do not fly
+2026-03-29,Jazeera Airways,JA688,London,Kuwait City,UK,Kuwait,Airbus A320neo,349,Temporary corridor suspension — safety bulletin
+2026-03-29,Etihad Airways,ET3209,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A380-800,229,Airport closure — military activity
+2026-03-29,Iran Air,IR6889,Riyadh,London,Saudi Arabia,UK,Boeing 787-9 Dreamliner,325,Government travel ban
+2026-03-29,Kuwait Airways,KU9792,Amman,Dubai,Jordan,UAE,Boeing 777-300ER,330,Airspace closure — NOTAM
+2026-03-29,Cathay Pacific,CA8448,Dubai,Paris,UAE,France,Airbus A320neo,262,Government travel ban
+2026-03-29,DHL Aviation,DH8905,Istanbul,Dubai,Turkey,UAE,Boeing 737-800,164,Airport closure — military activity
+2026-03-29,EgyptAir,EG8040,Cairo,Dubai,Egypt,UAE,Boeing 787-9 Dreamliner,355,Security risk — conflict zone
+2026-03-29,flydubai,FL4918,Dubai,Amman,UAE,Jordan,Airbus A380-800,286,Insurance restriction — war zone
+2026-03-29,Oman Air,OM5181,Singapore,London,Singapore,UK,Boeing 787-9 Dreamliner,445,Crew safety — company policy
+2026-03-29,DHL Aviation,DH7758,Mumbai,Dubai,India,UAE,Airbus A350-900,150,Crew safety — company policy
+2026-03-29,Turkish Airlines,TU9639,Dubai,Sydney,UAE,Australia,Boeing 737-800,390,Temporary corridor suspension — safety bulletin
+2026-03-29,Oman Air,OM7141,Bahrain,Dubai,Bahrain,UAE,Boeing 737 MAX 8,174,Fuel supply disruption
+2026-03-29,Air France,AI7467,Sydney,Dubai,Australia,UAE,Airbus A380-800,275,Government travel ban
+2026-03-30,Kuwait Airways,KU5656,Dubai,London,UAE,UK,Boeing 777-200LR,162,Crew duty-time exceedance after long reroutes
+2026-03-30,Air India,AI6854,Dubai,Cairo,UAE,Egypt,Boeing 787-10 Dreamliner,271,Insurance restriction — war zone
+2026-03-30,Etihad Airways,ET7750,New York,Dubai,USA,UAE,Boeing 737 MAX 8,252,Airport closure — military activity
+2026-03-30,Kuwait Airways,KU2691,Abu Dhabi,Washington,UAE,USA,Boeing 787-10 Dreamliner,133,Airspace closure — NOTAM
+2026-03-30,Delta Air Lines,DE5191,Lahore,Doha,Pakistan,Qatar,Airbus A350-900,389,Temporary corridor suspension — safety bulletin
+2026-03-30,FedEx Express,FE106,Paris,Beirut,France,Lebanon,Boeing 777-200LR,146,Airspace closure — NOTAM
+2026-03-30,Iran Air,IR2055,Islamabad,Riyadh,Pakistan,Saudi Arabia,Boeing 787-9 Dreamliner,246,Crew duty-time exceedance after long reroutes
+2026-03-30,flydubai,FL4999,Tehran,Istanbul,Iran,Turkey,Airbus A350-900,100,Insurance restriction — war zone
+2026-03-30,EgyptAir,EG6029,Paris,Dubai,France,UAE,Boeing 787-9 Dreamliner,106,Airspace closure — NOTAM
+2026-03-30,Qatar Airways,QA7355,Paris,Doha,France,Qatar,Airbus A380-800,142,Diplomatic advisory — do not fly
+2026-03-30,Malaysia Airlines,MA6968,Bahrain,London,Bahrain,UK,Airbus A380-800,96,Government travel ban
+2026-03-30,flydubai,FL8884,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A380-800,390,Diplomatic advisory — do not fly
+2026-03-30,flydubai,FL3474,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A380-800,218,Temporary corridor suspension — safety bulletin
+2026-03-30,Air Arabia,AI9164,Cairo,Riyadh,Egypt,Saudi Arabia,Boeing 777-300ER,284,Crew duty-time exceedance after long reroutes
+2026-03-30,Emirates SkyCargo,EM7806,Doha,London,Qatar,UK,Boeing 787-10 Dreamliner,208,ATC flow restrictions — congestion
+2026-03-30,Mahan Air,MA6246,Karachi,Dubai,Pakistan,UAE,Airbus A320neo,100,Airspace closure — NOTAM
+2026-03-30,Saudi Arabian Airlines,SA3865,Singapore,London,Singapore,UK,Airbus A320neo,129,Diplomatic advisory — do not fly
+2026-03-30,Delta Air Lines,DE4531,Mumbai,Kuwait City,India,Kuwait,Airbus A350-900,378,ATC flow restrictions — congestion
+2026-03-30,Turkish Airlines,TU364,Dubai,Sydney,UAE,Australia,Airbus A380-800,411,Crew safety — company policy
+2026-03-30,Oman Air,OM8893,Dubai,Frankfurt,UAE,Germany,Airbus A330-300,225,Government travel ban
+2026-03-31,Air France,AI4005,London,Bahrain,UK,Bahrain,Boeing 737-800,225,Fuel supply disruption
+2026-03-31,KLM,KL3031,Dubai,Mumbai,UAE,India,Airbus A350-900,328,ATC flow restrictions — congestion
+2026-03-31,DHL Aviation,DH3852,Los Angeles,Doha,USA,Qatar,Airbus A340-600,450,Security risk — conflict zone
+2026-03-31,EgyptAir,EG6999,London,Riyadh,UK,Saudi Arabia,Airbus A350-900,202,Government travel ban
+2026-03-31,Air Arabia,AI2204,London,Doha,UK,Qatar,Airbus A321neo,251,ATC flow restrictions — congestion
+2026-03-31,Lufthansa,LU339,Istanbul,Delhi,Turkey,India,Airbus A380-800,141,Diplomatic advisory — do not fly
+2026-03-31,Delta Air Lines,DE5387,Sydney,Dubai,Australia,UAE,Airbus A340-600,416,Fuel supply disruption
+2026-03-31,Iran Air,IR8266,Dubai,Frankfurt,UAE,Germany,Airbus A380-800,292,Airspace closure — NOTAM
+2026-03-31,Pakistan International Airlines,PA8328,Karachi,Dubai,Pakistan,UAE,Boeing 777-200LR,216,ATC flow restrictions — congestion
+2026-03-31,United Airlines,UN8204,London,Bahrain,UK,Bahrain,Boeing 787-10 Dreamliner,404,ATC flow restrictions — congestion
+2026-03-31,Cargolux,CA3940,Cairo,Kuwait City,Egypt,Kuwait,Boeing 777-200LR,193,Security risk — conflict zone
+2026-03-31,Iran Air,IR5512,Riyadh,London,Saudi Arabia,UK,Boeing 787-9 Dreamliner,411,Airspace closure — NOTAM
+2026-03-31,Air India,AI7427,London,Abu Dhabi,UK,UAE,Boeing 777-200LR,217,Security risk — conflict zone
+2026-03-31,Gulf Air,GU5132,Los Angeles,Doha,USA,Qatar,Airbus A350-900,260,Government travel ban
+2026-03-31,Air France,AI2898,Doha,Paris,Qatar,France,Airbus A340-600,238,Security risk — conflict zone
+2026-03-31,Turkish Airlines,TU5353,Paris,Dubai,France,UAE,Boeing 777-200LR,316,Insurance restriction — war zone
+2026-03-31,Malaysia Airlines,MA5936,Dubai,Bahrain,UAE,Bahrain,Boeing 777-200LR,259,Airport closure — military activity
+2026-03-31,United Airlines,UN3089,Mumbai,Doha,India,Qatar,Boeing 777-300ER,260,Insurance restriction — war zone
+2026-03-31,Turkish Airlines,TU1349,London,Kuwait City,UK,Kuwait,Boeing 777-300ER,179,ATC flow restrictions — congestion
+2026-03-31,Pakistan International Airlines,PA5640,Dubai,Frankfurt,UAE,Germany,Boeing 777-300ER,333,Crew safety — company policy
+2026-03-31,Ethiopian Airlines,ET3934,Cairo,Dubai,Egypt,UAE,Airbus A340-600,157,Temporary corridor suspension — safety bulletin
+2026-03-31,Qatar Airways,QA1575,Abu Dhabi,Washington,UAE,USA,Boeing 777-200LR,419,Diplomatic advisory — do not fly
+2026-04-01,FedEx Express,FE959,New York,Doha,USA,Qatar,Airbus A320neo,134,Diplomatic advisory — do not fly
+2026-04-01,Jazeera Airways,JA6020,Doha,New York,Qatar,USA,Airbus A380-800,441,ATC flow restrictions — congestion
+2026-04-01,Etihad Airways,ET9466,Karachi,Dubai,Pakistan,UAE,Boeing 737-800,164,Government travel ban
+2026-04-01,Lufthansa,LU3168,Mumbai,Dubai,India,UAE,Boeing 737-800,235,Temporary corridor suspension — safety bulletin
+2026-04-01,flydubai,FL4065,Tehran,Beijing,Iran,China,Airbus A320neo,447,Fuel supply disruption
+2026-04-01,Lufthansa,LU8797,Paris,Beirut,France,Lebanon,Airbus A380-800,185,ATC flow restrictions — congestion
+2026-04-01,KLM,KL3613,Doha,London,Qatar,UK,Boeing 777-300ER,271,Fuel supply disruption
+2026-04-01,Turkish Airlines,TU9312,Karachi,Dubai,Pakistan,UAE,Boeing 787-9 Dreamliner,358,Security risk — conflict zone
+2026-04-01,Gulf Air,GU2676,Abu Dhabi,Sydney,UAE,Australia,Boeing 777-300ER,178,Airspace closure — NOTAM
+2026-04-01,Etihad Airways,ET5184,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 737 MAX 8,256,Crew duty-time exceedance after long reroutes
+2026-04-01,Delta Air Lines,DE1101,Amman,Dubai,Jordan,UAE,Airbus A350-900,273,Crew safety — company policy
+2026-04-01,Oman Air,OM9182,Washington,Abu Dhabi,USA,UAE,Boeing 787-10 Dreamliner,93,Temporary corridor suspension — safety bulletin
+2026-04-01,Pakistan International Airlines,PA2126,Frankfurt,Dubai,Germany,UAE,Airbus A330-300,117,Temporary corridor suspension — safety bulletin
+2026-04-01,EgyptAir,EG2085,Singapore,Dubai,Singapore,UAE,Boeing 777-300ER,215,Temporary corridor suspension — safety bulletin
+2026-04-01,Oman Air,OM285,Mumbai,Dubai,India,UAE,Airbus A340-600,151,Fuel supply disruption
+2026-04-01,EgyptAir,EG5612,Dubai,Amman,UAE,Jordan,Boeing 777-200LR,411,Diplomatic advisory — do not fly
+2026-04-01,Emirates SkyCargo,EM8655,Dubai,London,UAE,UK,Airbus A321neo,118,Temporary corridor suspension — safety bulletin
+2026-04-01,flydubai,FL1730,Paris,Doha,France,Qatar,Boeing 787-10 Dreamliner,134,Crew safety — company policy
+2026-04-01,Singapore Airlines,SI1726,Doha,Paris,Qatar,France,Airbus A340-600,387,Insurance restriction — war zone
+2026-04-01,British Airways,BR1667,Istanbul,Karachi,Turkey,Pakistan,Airbus A330-300,187,Diplomatic advisory — do not fly
+2026-04-02,Kuwait Airways,KU5920,Riyadh,Islamabad,Saudi Arabia,Pakistan,Boeing 737 MAX 8,151,Security risk — conflict zone
+2026-04-02,Air India,AI2675,Los Angeles,Doha,USA,Qatar,Boeing 777-200LR,250,Airport closure — military activity
+2026-04-02,Iran Air,IR3663,Beijing,Tehran,China,Iran,Boeing 787-10 Dreamliner,378,Diplomatic advisory — do not fly
+2026-04-02,Iran Air,IR3164,London,Doha,UK,Qatar,Boeing 787-10 Dreamliner,230,Crew duty-time exceedance after long reroutes
+2026-04-02,Thai Airways,TH1032,Dubai,New York,UAE,USA,Boeing 737-800,430,Insurance restriction — war zone
+2026-04-02,Kuwait Airways,KU3437,Riyadh,London,Saudi Arabia,UK,Airbus A380-800,296,Government travel ban
+2026-04-02,Air Arabia,AI2177,Dubai,Karachi,UAE,Pakistan,Airbus A330-300,385,Government travel ban
+2026-04-02,EgyptAir,EG722,Paris,Doha,France,Qatar,Boeing 777-200LR,241,Crew duty-time exceedance after long reroutes
+2026-04-02,Etihad Airways,ET3308,Doha,Los Angeles,Qatar,USA,Airbus A321neo,218,Airport closure — military activity
+2026-04-02,British Airways,BR4695,Doha,Paris,Qatar,France,Boeing 737 MAX 8,370,Crew safety — company policy
+2026-04-02,United Airlines,UN316,Dubai,Singapore,UAE,Singapore,Boeing 737-800,230,Temporary corridor suspension — safety bulletin
+2026-04-02,British Airways,BR1701,Los Angeles,Doha,USA,Qatar,Boeing 777-300ER,129,Fuel supply disruption
+2026-04-02,United Airlines,UN2629,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A330-300,370,ATC flow restrictions — congestion
+2026-04-02,Lufthansa,LU4650,Abu Dhabi,Sydney,UAE,Australia,Airbus A321neo,208,Crew safety — company policy
+2026-04-02,DHL Aviation,DH1920,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 777-200LR,378,Crew duty-time exceedance after long reroutes
+2026-04-02,KLM,KL1655,Doha,London,Qatar,UK,Airbus A330-300,245,Crew duty-time exceedance after long reroutes
+2026-04-02,KLM,KL2294,Lahore,Doha,Pakistan,Qatar,Boeing 787-9 Dreamliner,105,ATC flow restrictions — congestion
+2026-04-02,Mahan Air,MA294,Doha,New York,Qatar,USA,Airbus A330-300,307,Fuel supply disruption
+2026-04-02,American Airlines,AM3727,Istanbul,Karachi,Turkey,Pakistan,Airbus A350-900,319,Government travel ban
+2026-04-02,Air India,AI7653,Bahrain,Dubai,Bahrain,UAE,Airbus A330-300,171,Airspace closure — NOTAM
+2026-04-02,American Airlines,AM8185,Sydney,Abu Dhabi,Australia,UAE,Boeing 777-200LR,261,Diplomatic advisory — do not fly
+2026-04-02,Malaysia Airlines,MA8225,Frankfurt,Dubai,Germany,UAE,Airbus A380-800,433,Airport closure — military activity
+2026-04-02,Emirates,EM3541,Lahore,Doha,Pakistan,Qatar,Boeing 737-800,425,Insurance restriction — war zone
+2026-04-02,Kuwait Airways,KU9387,Doha,New York,Qatar,USA,Boeing 737 MAX 8,204,Fuel supply disruption
+2026-04-02,Air France,AI7362,Dubai,Istanbul,UAE,Turkey,Airbus A330-300,392,ATC flow restrictions — congestion
+2026-04-03,FedEx Express,FE1108,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A340-600,218,Crew safety — company policy
+2026-04-03,Turkish Airlines,TU4433,Istanbul,Tehran,Turkey,Iran,Boeing 777-300ER,240,Government travel ban
+2026-04-03,British Airways,BR6833,London,Bahrain,UK,Bahrain,Boeing 787-9 Dreamliner,140,ATC flow restrictions — congestion
+2026-04-03,FedEx Express,FE7867,Dubai,Amman,UAE,Jordan,Boeing 787-10 Dreamliner,377,Airport closure — military activity
+2026-04-03,Emirates SkyCargo,EM338,Beirut,Paris,Lebanon,France,Airbus A330-300,143,Airspace closure — NOTAM
+2026-04-03,Ethiopian Airlines,ET6556,Frankfurt,Dubai,Germany,UAE,Airbus A320neo,312,Airspace closure — NOTAM
+2026-04-03,Turkish Airlines,TU8758,Frankfurt,Dubai,Germany,UAE,Boeing 777-200LR,110,Insurance restriction — war zone
+2026-04-03,United Airlines,UN5990,Los Angeles,Doha,USA,Qatar,Boeing 787-10 Dreamliner,130,Fuel supply disruption
+2026-04-03,Emirates SkyCargo,EM7866,Mumbai,Doha,India,Qatar,Boeing 777-300ER,156,Temporary corridor suspension — safety bulletin
+2026-04-03,flydubai,FL9547,Beirut,Paris,Lebanon,France,Boeing 737 MAX 8,84,Crew safety — company policy
+2026-04-03,flydubai,FL4341,Istanbul,Delhi,Turkey,India,Boeing 787-9 Dreamliner,293,Temporary corridor suspension — safety bulletin
+2026-04-03,KLM,KL3317,Paris,Beirut,France,Lebanon,Airbus A330-300,414,Diplomatic advisory — do not fly
+2026-04-03,KLM,KL4494,Karachi,Dubai,Pakistan,UAE,Boeing 787-10 Dreamliner,294,Crew safety — company policy
+2026-04-03,Etihad Airways,ET4980,Dubai,Paris,UAE,France,Airbus A321neo,322,Temporary corridor suspension — safety bulletin
+2026-04-03,British Airways,BR644,Tehran,Moscow,Iran,Russia,Airbus A320neo,243,Government travel ban
+2026-04-03,Mahan Air,MA978,Doha,Paris,Qatar,France,Airbus A380-800,428,Insurance restriction — war zone
+2026-04-03,Air France,AI4899,Dubai,New York,UAE,USA,Boeing 777-300ER,322,Temporary corridor suspension — safety bulletin
+2026-04-03,Emirates SkyCargo,EM3133,Dubai,Frankfurt,UAE,Germany,Boeing 787-9 Dreamliner,114,Crew duty-time exceedance after long reroutes
+2026-04-03,Pakistan International Airlines,PA1913,Istanbul,Karachi,Turkey,Pakistan,Boeing 737 MAX 8,110,Fuel supply disruption
+2026-04-03,Etihad Airways,ET8217,Istanbul,Dubai,Turkey,UAE,Airbus A350-900,151,Fuel supply disruption
+2026-04-04,Etihad Airways,ET2067,Dubai,Istanbul,UAE,Turkey,Boeing 737 MAX 8,346,Crew duty-time exceedance after long reroutes
+2026-04-04,Saudi Arabian Airlines,SA324,Istanbul,Tehran,Turkey,Iran,Airbus A350-900,319,Fuel supply disruption
+2026-04-04,American Airlines,AM7070,Delhi,Istanbul,India,Turkey,Airbus A320neo,438,Insurance restriction — war zone
+2026-04-04,FedEx Express,FE4029,Dubai,Islamabad,UAE,Pakistan,Airbus A330-300,387,Security risk — conflict zone
+2026-04-04,British Airways,BR2886,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A330-300,287,Security risk — conflict zone
+2026-04-04,Gulf Air,GU7929,Dubai,Istanbul,UAE,Turkey,Airbus A321neo,384,Diplomatic advisory — do not fly
+2026-04-04,Saudi Arabian Airlines,SA9751,Abu Dhabi,London,UAE,UK,Airbus A350-900,449,Crew safety — company policy
+2026-04-04,Air India,AI7825,Doha,London,Qatar,UK,Airbus A380-800,308,Airspace closure — NOTAM
+2026-04-04,British Airways,BR9877,Islamabad,Dubai,Pakistan,UAE,Airbus A321neo,440,Fuel supply disruption
+2026-04-04,Iran Air,IR9838,Doha,New York,Qatar,USA,Airbus A321neo,134,Airport closure — military activity
+2026-04-04,Gulf Air,GU8930,Karachi,Dubai,Pakistan,UAE,Boeing 777-300ER,128,Insurance restriction — war zone
+2026-04-04,Delta Air Lines,DE7810,Kuwait City,Cairo,Kuwait,Egypt,Boeing 737 MAX 8,151,Fuel supply disruption
+2026-04-04,Etihad Airways,ET6758,Islamabad,Dubai,Pakistan,UAE,Boeing 737 MAX 8,88,Security risk — conflict zone
+2026-04-04,Malaysia Airlines,MA6388,Bahrain,London,Bahrain,UK,Boeing 737-800,414,Airspace closure — NOTAM
+2026-04-04,British Airways,BR3521,London,Bahrain,UK,Bahrain,Airbus A320neo,442,Security risk — conflict zone
+2026-04-04,flydubai,FL3907,Istanbul,Tehran,Turkey,Iran,Airbus A380-800,136,Airport closure — military activity
+2026-04-04,British Airways,BR9998,Istanbul,Tehran,Turkey,Iran,Boeing 787-10 Dreamliner,281,Fuel supply disruption
+2026-04-04,FedEx Express,FE7374,Lahore,Doha,Pakistan,Qatar,Boeing 737 MAX 8,112,Fuel supply disruption
+2026-04-04,EgyptAir,EG4940,Delhi,Dubai,India,UAE,Airbus A320neo,234,Government travel ban
+2026-04-04,Saudi Arabian Airlines,SA1160,Dubai,Karachi,UAE,Pakistan,Boeing 777-200LR,403,Government travel ban
+2026-04-04,Ethiopian Airlines,ET2256,Paris,Doha,France,Qatar,Boeing 787-9 Dreamliner,279,Crew safety — company policy
+2026-04-04,Pakistan International Airlines,PA1486,New York,Doha,USA,Qatar,Airbus A340-600,333,Crew safety — company policy
+2026-04-04,Ethiopian Airlines,ET6036,Bahrain,Dubai,Bahrain,UAE,Boeing 737 MAX 8,295,Airport closure — military activity
+2026-04-05,KLM,KL1976,Mumbai,Kuwait City,India,Kuwait,Airbus A320neo,408,Insurance restriction — war zone
+2026-04-05,Air India,AI5381,Dubai,Delhi,UAE,India,Airbus A340-600,400,Diplomatic advisory — do not fly
+2026-04-05,Saudi Arabian Airlines,SA1167,London,Bahrain,UK,Bahrain,Airbus A330-300,217,Security risk — conflict zone
+2026-04-05,Emirates,EM8527,Kuwait City,London,Kuwait,UK,Airbus A330-300,139,Crew safety — company policy
+2026-04-05,IndiGo,IN4416,Sydney,Abu Dhabi,Australia,UAE,Airbus A330-300,334,Diplomatic advisory — do not fly
+2026-04-05,Thai Airways,TH7823,Abu Dhabi,Washington,UAE,USA,Boeing 787-9 Dreamliner,149,Government travel ban
+2026-04-05,flydubai,FL3660,Riyadh,Islamabad,Saudi Arabia,Pakistan,Boeing 787-9 Dreamliner,319,Fuel supply disruption
+2026-04-05,IndiGo,IN9153,Abu Dhabi,Washington,UAE,USA,Airbus A321neo,238,Insurance restriction — war zone
+2026-04-05,Turkish Airlines,TU6763,Kuwait City,Mumbai,Kuwait,India,Boeing 777-200LR,157,Temporary corridor suspension — safety bulletin
+2026-04-05,Emirates,EM5816,Frankfurt,Dubai,Germany,UAE,Boeing 737-800,175,Security risk — conflict zone
+2026-04-05,Jazeera Airways,JA5629,Paris,Dubai,France,UAE,Boeing 787-10 Dreamliner,339,Temporary corridor suspension — safety bulletin
+2026-04-05,Air India,AI5001,London,Doha,UK,Qatar,Airbus A321neo,322,Fuel supply disruption
+2026-04-05,Cargolux,CA9464,Los Angeles,Doha,USA,Qatar,Airbus A321neo,380,Diplomatic advisory — do not fly
+2026-04-05,Turkish Airlines,TU6651,Singapore,Dubai,Singapore,UAE,Airbus A330-300,137,Temporary corridor suspension — safety bulletin
+2026-04-05,DHL Aviation,DH3680,Dubai,Delhi,UAE,India,Boeing 777-200LR,97,Temporary corridor suspension — safety bulletin
+2026-04-05,Singapore Airlines,SI3627,Frankfurt,Dubai,Germany,UAE,Airbus A380-800,331,Crew duty-time exceedance after long reroutes
+2026-04-05,Singapore Airlines,SI8415,Moscow,Tehran,Russia,Iran,Airbus A320neo,222,Fuel supply disruption
+2026-04-05,Ethiopian Airlines,ET8045,Amman,Dubai,Jordan,UAE,Boeing 777-300ER,249,Airspace closure — NOTAM
+2026-04-05,Saudi Arabian Airlines,SA4275,Dubai,Karachi,UAE,Pakistan,Boeing 787-10 Dreamliner,120,Fuel supply disruption
+2026-04-06,Ethiopian Airlines,ET928,Amman,Dubai,Jordan,UAE,Boeing 787-9 Dreamliner,350,Government travel ban
+2026-04-06,Saudi Arabian Airlines,SA9961,Riyadh,Islamabad,Saudi Arabia,Pakistan,Boeing 777-200LR,209,Insurance restriction — war zone
+2026-04-06,Jazeera Airways,JA5659,Istanbul,Karachi,Turkey,Pakistan,Boeing 737 MAX 8,200,Government travel ban
+2026-04-06,EgyptAir,EG7464,Muscat,London,Oman,UK,Airbus A380-800,439,Insurance restriction — war zone
+2026-04-06,Cathay Pacific,CA5846,London,Kuwait City,UK,Kuwait,Airbus A340-600,208,Airspace closure — NOTAM
+2026-04-06,Jazeera Airways,JA1728,Dubai,Karachi,UAE,Pakistan,Airbus A320neo,245,Airport closure — military activity
+2026-04-06,Turkish Airlines,TU706,Doha,New York,Qatar,USA,Airbus A320neo,330,Government travel ban
+2026-04-06,Cargolux,CA2262,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 777-300ER,358,Airspace closure — NOTAM
+2026-04-06,Qatar Airways,QA1996,Islamabad,Riyadh,Pakistan,Saudi Arabia,Boeing 737-800,342,Diplomatic advisory — do not fly
+2026-04-06,Iran Air,IR4457,London,Kuwait City,UK,Kuwait,Airbus A321neo,450,Diplomatic advisory — do not fly
+2026-04-06,Gulf Air,GU3354,Dubai,Cairo,UAE,Egypt,Boeing 737-800,347,Security risk — conflict zone
+2026-04-06,Delta Air Lines,DE3360,Abu Dhabi,Sydney,UAE,Australia,Airbus A350-900,224,Government travel ban
+2026-04-06,Lufthansa,LU5100,Dubai,London,UAE,UK,Boeing 737-800,281,Security risk — conflict zone
+2026-04-06,Thai Airways,TH2502,Istanbul,Tehran,Turkey,Iran,Boeing 777-300ER,174,Temporary corridor suspension — safety bulletin
+2026-04-06,Delta Air Lines,DE6324,Paris,Beirut,France,Lebanon,Airbus A350-900,222,Airport closure — military activity
+2026-04-06,Iran Air,IR6866,Istanbul,Karachi,Turkey,Pakistan,Airbus A380-800,432,Security risk — conflict zone
+2026-04-06,Gulf Air,GU9190,Los Angeles,Doha,USA,Qatar,Boeing 787-9 Dreamliner,307,Government travel ban
+2026-04-06,Oman Air,OM9995,Kuwait City,Cairo,Kuwait,Egypt,Boeing 777-200LR,181,Diplomatic advisory — do not fly
+2026-04-06,Air France,AI4546,Frankfurt,Dubai,Germany,UAE,Airbus A320neo,410,Diplomatic advisory — do not fly
+2026-04-06,Malaysia Airlines,MA8563,Mumbai,Doha,India,Qatar,Boeing 787-10 Dreamliner,418,Insurance restriction — war zone
+2026-04-06,FedEx Express,FE347,Karachi,Dubai,Pakistan,UAE,Boeing 777-200LR,277,Temporary corridor suspension — safety bulletin
+2026-04-06,Pakistan International Airlines,PA4972,Frankfurt,Dubai,Germany,UAE,Boeing 737-800,308,Crew duty-time exceedance after long reroutes
+2026-04-06,DHL Aviation,DH3204,Washington,Abu Dhabi,USA,UAE,Airbus A320neo,95,Temporary corridor suspension — safety bulletin
+2026-04-06,Iran Air,IR3525,Paris,Beirut,France,Lebanon,Airbus A350-900,118,Fuel supply disruption
+2026-04-06,Etihad Airways,ET9305,New York,Doha,USA,Qatar,Airbus A340-600,92,Airport closure — military activity
+2026-04-06,Mahan Air,MA5040,Kuwait City,Cairo,Kuwait,Egypt,Airbus A380-800,237,Diplomatic advisory — do not fly
+2026-04-06,United Airlines,UN9160,Paris,Beirut,France,Lebanon,Airbus A321neo,236,Airport closure — military activity
+2026-04-06,Mahan Air,MA602,Dubai,London,UAE,UK,Boeing 737-800,137,Insurance restriction — war zone
+2026-04-06,Emirates,EM8354,Dubai,New York,UAE,USA,Airbus A321neo,275,Government travel ban
+2026-04-06,Gulf Air,GU9252,Doha,Lahore,Qatar,Pakistan,Airbus A340-600,83,Temporary corridor suspension — safety bulletin
+2026-04-06,Ethiopian Airlines,ET2172,London,Kuwait City,UK,Kuwait,Airbus A330-300,231,Diplomatic advisory — do not fly
+2026-04-07,Turkish Airlines,TU371,London,Abu Dhabi,UK,UAE,Boeing 737-800,357,Fuel supply disruption
+2026-04-07,Cathay Pacific,CA4618,Kuwait City,Mumbai,Kuwait,India,Airbus A320neo,182,Government travel ban
+2026-04-07,Air India,AI9895,London,Riyadh,UK,Saudi Arabia,Boeing 737-800,102,Crew safety — company policy
+2026-04-07,Pakistan International Airlines,PA6738,Beirut,Paris,Lebanon,France,Airbus A350-900,192,Temporary corridor suspension — safety bulletin
+2026-04-07,Singapore Airlines,SI422,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A320neo,257,Security risk — conflict zone
+2026-04-07,EgyptAir,EG7685,Sydney,Abu Dhabi,Australia,UAE,Airbus A350-900,432,Government travel ban
+2026-04-07,Iran Air,IR6954,Dubai,London,UAE,UK,Boeing 777-200LR,80,Security risk — conflict zone
+2026-04-07,Etihad Airways,ET1664,Beirut,Paris,Lebanon,France,Airbus A340-600,381,Diplomatic advisory — do not fly
+2026-04-07,Ethiopian Airlines,ET5977,Dubai,New York,UAE,USA,Boeing 787-10 Dreamliner,158,Diplomatic advisory — do not fly
+2026-04-07,FedEx Express,FE1872,Sydney,Dubai,Australia,UAE,Boeing 737 MAX 8,221,Government travel ban
+2026-04-07,Pakistan International Airlines,PA4563,Mumbai,Dubai,India,UAE,Airbus A340-600,98,Fuel supply disruption
+2026-04-07,KLM,KL182,Dubai,Bahrain,UAE,Bahrain,Airbus A380-800,94,Crew safety — company policy
+2026-04-07,Pakistan International Airlines,PA3405,London,Abu Dhabi,UK,UAE,Boeing 737-800,96,Fuel supply disruption
+2026-04-07,Turkish Airlines,TU9152,Istanbul,Tehran,Turkey,Iran,Boeing 787-10 Dreamliner,436,Airport closure — military activity
+2026-04-07,Qatar Airways,QA2743,Dubai,Paris,UAE,France,Boeing 787-9 Dreamliner,173,ATC flow restrictions — congestion
+2026-04-07,Qatar Airways,QA7246,Dubai,Istanbul,UAE,Turkey,Boeing 737-800,185,Fuel supply disruption
+2026-04-07,flydubai,FL915,Doha,Los Angeles,Qatar,USA,Airbus A330-300,192,Temporary corridor suspension — safety bulletin
+2026-04-07,Ethiopian Airlines,ET645,Riyadh,London,Saudi Arabia,UK,Boeing 737 MAX 8,381,Temporary corridor suspension — safety bulletin
+2026-04-07,Pakistan International Airlines,PA1009,Doha,Mumbai,Qatar,India,Airbus A380-800,89,Temporary corridor suspension — safety bulletin
+2026-04-07,Oman Air,OM8527,Dubai,Frankfurt,UAE,Germany,Airbus A321neo,242,ATC flow restrictions — congestion
+2026-04-08,Cathay Pacific,CA7328,Karachi,Dubai,Pakistan,UAE,Airbus A350-900,106,Diplomatic advisory — do not fly
+2026-04-08,Delta Air Lines,DE5989,Dubai,London,UAE,UK,Boeing 737-800,408,Temporary corridor suspension — safety bulletin
+2026-04-08,Qatar Airways,QA8446,Frankfurt,Dubai,Germany,UAE,Airbus A380-800,165,Airspace closure — NOTAM
+2026-04-08,Saudi Arabian Airlines,SA3705,London,Bahrain,UK,Bahrain,Airbus A350-900,184,Temporary corridor suspension — safety bulletin
+2026-04-08,Etihad Airways,ET2539,Dubai,Bahrain,UAE,Bahrain,Airbus A320neo,149,Fuel supply disruption
+2026-04-08,Cargolux,CA3677,Dubai,Frankfurt,UAE,Germany,Boeing 737-800,394,Crew safety — company policy
+2026-04-08,Lufthansa,LU5651,Islamabad,Dubai,Pakistan,UAE,Boeing 777-200LR,343,Security risk — conflict zone
+2026-04-08,FedEx Express,FE4591,Doha,Paris,Qatar,France,Airbus A340-600,228,Security risk — conflict zone
+2026-04-08,Ethiopian Airlines,ET3686,Mumbai,Doha,India,Qatar,Boeing 777-300ER,263,ATC flow restrictions — congestion
+2026-04-08,Emirates,EM9935,Kuwait City,London,Kuwait,UK,Boeing 787-10 Dreamliner,331,Insurance restriction — war zone
+2026-04-08,Ethiopian Airlines,ET995,Dubai,Karachi,UAE,Pakistan,Airbus A350-900,202,ATC flow restrictions — congestion
+2026-04-08,Turkish Airlines,TU9775,Kuwait City,London,Kuwait,UK,Airbus A330-300,163,Government travel ban
+2026-04-08,DHL Aviation,DH2855,Tehran,Istanbul,Iran,Turkey,Boeing 787-9 Dreamliner,393,Temporary corridor suspension — safety bulletin
+2026-04-08,EgyptAir,EG6718,Islamabad,Dubai,Pakistan,UAE,Airbus A320neo,359,Airport closure — military activity
+2026-04-08,Emirates SkyCargo,EM5025,Mumbai,Doha,India,Qatar,Airbus A350-900,343,Government travel ban
+2026-04-08,Kuwait Airways,KU8347,London,Muscat,UK,Oman,Boeing 777-200LR,135,Fuel supply disruption
+2026-04-08,Etihad Airways,ET4999,Dubai,Amman,UAE,Jordan,Airbus A320neo,359,Airport closure — military activity
+2026-04-08,FedEx Express,FE2404,Beirut,Paris,Lebanon,France,Boeing 787-9 Dreamliner,354,Government travel ban
+2026-04-08,Lufthansa,LU3123,London,Bahrain,UK,Bahrain,Boeing 777-200LR,232,Airspace closure — NOTAM
+2026-04-09,DHL Aviation,DH8714,Doha,Mumbai,Qatar,India,Boeing 777-200LR,386,Crew duty-time exceedance after long reroutes
+2026-04-09,Air Arabia,AI6155,London,Abu Dhabi,UK,UAE,Boeing 777-200LR,160,Temporary corridor suspension — safety bulletin
+2026-04-09,Jazeera Airways,JA6672,Cairo,Kuwait City,Egypt,Kuwait,Airbus A321neo,419,Airspace closure — NOTAM
+2026-04-09,Etihad Airways,ET4111,Dubai,New York,UAE,USA,Boeing 737 MAX 8,296,Government travel ban
+2026-04-09,Mahan Air,MA5313,Delhi,Dubai,India,UAE,Boeing 737-800,178,Fuel supply disruption
+2026-04-09,Turkish Airlines,TU8590,Dubai,Karachi,UAE,Pakistan,Airbus A320neo,390,Diplomatic advisory — do not fly
+2026-04-09,Turkish Airlines,TU9826,Moscow,Tehran,Russia,Iran,Boeing 787-9 Dreamliner,171,Temporary corridor suspension — safety bulletin
+2026-04-09,Pakistan International Airlines,PA5164,Abu Dhabi,Sydney,UAE,Australia,Airbus A350-900,142,Airport closure — military activity
+2026-04-09,Pakistan International Airlines,PA3564,Kuwait City,Cairo,Kuwait,Egypt,Airbus A320neo,295,ATC flow restrictions — congestion
+2026-04-09,Delta Air Lines,DE1756,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A350-900,184,Government travel ban
+2026-04-09,Air France,AI565,New York,Doha,USA,Qatar,Boeing 787-10 Dreamliner,447,Temporary corridor suspension — safety bulletin
+2026-04-09,Air Arabia,AI1568,Washington,Abu Dhabi,USA,UAE,Airbus A350-900,349,Crew safety — company policy
+2026-04-09,United Airlines,UN4478,Dubai,Karachi,UAE,Pakistan,Airbus A321neo,405,Temporary corridor suspension — safety bulletin
+2026-04-09,Etihad Airways,ET5727,London,Doha,UK,Qatar,Airbus A380-800,123,Crew duty-time exceedance after long reroutes
+2026-04-09,Kuwait Airways,KU1979,London,Dubai,UK,UAE,Airbus A321neo,442,Government travel ban
+2026-04-09,Air France,AI1194,Doha,Paris,Qatar,France,Boeing 787-9 Dreamliner,116,Crew duty-time exceedance after long reroutes
+2026-04-09,Mahan Air,MA6973,London,Doha,UK,Qatar,Boeing 777-300ER,174,Temporary corridor suspension — safety bulletin
+2026-04-09,DHL Aviation,DH714,Dubai,New York,UAE,USA,Airbus A350-900,405,Security risk — conflict zone
+2026-04-09,Malaysia Airlines,MA9139,London,Dubai,UK,UAE,Boeing 777-300ER,110,Insurance restriction — war zone
+2026-04-09,Jazeera Airways,JA7679,Dubai,London,UAE,UK,Airbus A350-900,180,Fuel supply disruption
+2026-04-09,FedEx Express,FE455,Muscat,London,Oman,UK,Boeing 737-800,359,Diplomatic advisory — do not fly
+2026-04-10,FedEx Express,FE747,Dubai,Singapore,UAE,Singapore,Airbus A330-300,154,ATC flow restrictions — congestion
+2026-04-10,Air India,AI3717,Frankfurt,Dubai,Germany,UAE,Boeing 777-300ER,362,Diplomatic advisory — do not fly
+2026-04-10,Kuwait Airways,KU4207,Singapore,Dubai,Singapore,UAE,Boeing 777-200LR,271,Airspace closure — NOTAM
+2026-04-10,Ethiopian Airlines,ET6145,Dubai,Frankfurt,UAE,Germany,Airbus A380-800,381,Government travel ban
+2026-04-10,DHL Aviation,DH2693,Dubai,Frankfurt,UAE,Germany,Boeing 787-9 Dreamliner,226,Security risk — conflict zone
+2026-04-10,Cathay Pacific,CA5492,Amman,Dubai,Jordan,UAE,Airbus A340-600,103,Airspace closure — NOTAM
+2026-04-10,Cargolux,CA8246,London,Muscat,UK,Oman,Boeing 777-300ER,406,Diplomatic advisory — do not fly
+2026-04-10,Cargolux,CA6180,London,Bahrain,UK,Bahrain,Boeing 777-200LR,381,Airport closure — military activity
+2026-04-10,EgyptAir,EG4689,Delhi,Istanbul,India,Turkey,Boeing 787-9 Dreamliner,441,Airspace closure — NOTAM
+2026-04-10,Thai Airways,TH6602,Dubai,Bahrain,UAE,Bahrain,Boeing 737-800,362,Insurance restriction — war zone
+2026-04-10,Lufthansa,LU2473,Singapore,London,Singapore,UK,Boeing 787-10 Dreamliner,404,Airport closure — military activity
+2026-04-10,Oman Air,OM996,Dubai,Frankfurt,UAE,Germany,Boeing 737-800,384,ATC flow restrictions — congestion
+2026-04-10,United Airlines,UN5230,Dubai,Islamabad,UAE,Pakistan,Airbus A320neo,181,ATC flow restrictions — congestion
+2026-04-10,United Airlines,UN9090,Abu Dhabi,Washington,UAE,USA,Airbus A320neo,238,Government travel ban
+2026-04-10,IndiGo,IN6495,Dubai,Sydney,UAE,Australia,Airbus A340-600,350,Security risk — conflict zone
+2026-04-10,Thai Airways,TH7065,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A380-800,229,Airspace closure — NOTAM
+2026-04-11,Air India,AI5334,Bahrain,Dubai,Bahrain,UAE,Boeing 777-300ER,276,Security risk — conflict zone
+2026-04-11,FedEx Express,FE7093,London,Kuwait City,UK,Kuwait,Boeing 777-200LR,298,Crew duty-time exceedance after long reroutes
+2026-04-11,Lufthansa,LU7874,Los Angeles,Doha,USA,Qatar,Boeing 787-9 Dreamliner,410,Security risk — conflict zone
+2026-04-11,Pakistan International Airlines,PA2339,Istanbul,Dubai,Turkey,UAE,Boeing 777-300ER,376,Diplomatic advisory — do not fly
+2026-04-11,Mahan Air,MA5773,Karachi,Dubai,Pakistan,UAE,Airbus A350-900,381,Airspace closure — NOTAM
+2026-04-11,KLM,KL241,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A330-300,324,Crew safety — company policy
+2026-04-11,flydubai,FL4034,Frankfurt,Dubai,Germany,UAE,Boeing 777-300ER,301,Airspace closure — NOTAM
+2026-04-11,Jazeera Airways,JA4386,Dubai,Mumbai,UAE,India,Boeing 737 MAX 8,137,Airspace closure — NOTAM
+2026-04-11,British Airways,BR2285,Delhi,Dubai,India,UAE,Airbus A330-300,254,Security risk — conflict zone
+2026-04-11,EgyptAir,EG6062,London,Muscat,UK,Oman,Airbus A321neo,342,Fuel supply disruption
+2026-04-11,Malaysia Airlines,MA9199,Kuwait City,Cairo,Kuwait,Egypt,Boeing 737 MAX 8,409,Diplomatic advisory — do not fly
+2026-04-11,Saudi Arabian Airlines,SA6806,Mumbai,Kuwait City,India,Kuwait,Airbus A350-900,340,Fuel supply disruption
+2026-04-11,Pakistan International Airlines,PA905,Dubai,Cairo,UAE,Egypt,Boeing 787-10 Dreamliner,295,Crew safety — company policy
+2026-04-11,FedEx Express,FE9123,Doha,London,Qatar,UK,Boeing 777-200LR,147,Security risk — conflict zone
+2026-04-11,DHL Aviation,DH3557,Dubai,Karachi,UAE,Pakistan,Airbus A340-600,180,Security risk — conflict zone
+2026-04-11,Singapore Airlines,SI5098,Istanbul,Dubai,Turkey,UAE,Boeing 787-10 Dreamliner,377,Airport closure — military activity
+2026-04-12,FedEx Express,FE4585,Mumbai,Kuwait City,India,Kuwait,Boeing 737-800,247,Insurance restriction — war zone
+2026-04-12,Malaysia Airlines,MA6148,London,Bahrain,UK,Bahrain,Airbus A340-600,268,Airport closure — military activity
+2026-04-12,Qatar Airways,QA4886,Doha,New York,Qatar,USA,Boeing 777-300ER,170,Temporary corridor suspension — safety bulletin
+2026-04-12,Kuwait Airways,KU8632,Doha,Los Angeles,Qatar,USA,Airbus A350-900,288,ATC flow restrictions — congestion
+2026-04-12,American Airlines,AM7162,Dubai,Sydney,UAE,Australia,Boeing 737 MAX 8,377,ATC flow restrictions — congestion
+2026-04-12,Turkish Airlines,TU4819,Doha,Los Angeles,Qatar,USA,Airbus A340-600,290,Insurance restriction — war zone
+2026-04-12,KLM,KL5817,Singapore,London,Singapore,UK,Airbus A330-300,353,Diplomatic advisory — do not fly
+2026-04-12,DHL Aviation,DH870,Bahrain,Dubai,Bahrain,UAE,Boeing 777-200LR,172,Diplomatic advisory — do not fly
+2026-04-12,DHL Aviation,DH8273,Dubai,Frankfurt,UAE,Germany,Airbus A321neo,449,Insurance restriction — war zone
+2026-04-12,Iran Air,IR4881,Bahrain,London,Bahrain,UK,Boeing 787-10 Dreamliner,289,Temporary corridor suspension — safety bulletin
+2026-04-12,KLM,KL8063,Singapore,London,Singapore,UK,Boeing 777-200LR,122,Airspace closure — NOTAM
+2026-04-12,Etihad Airways,ET8705,Cairo,Kuwait City,Egypt,Kuwait,Boeing 737 MAX 8,324,Fuel supply disruption
+2026-04-12,IndiGo,IN8990,Sydney,Dubai,Australia,UAE,Boeing 787-9 Dreamliner,98,Security risk — conflict zone
+2026-04-12,Air France,AI8925,Bahrain,Dubai,Bahrain,UAE,Airbus A340-600,230,Diplomatic advisory — do not fly
+2026-04-12,Emirates,EM2073,Beijing,Tehran,China,Iran,Airbus A330-300,354,Airspace closure — NOTAM
+2026-04-13,Malaysia Airlines,MA7154,Doha,London,Qatar,UK,Boeing 787-10 Dreamliner,311,Crew duty-time exceedance after long reroutes
+2026-04-13,KLM,KL2373,Bahrain,Dubai,Bahrain,UAE,Boeing 777-300ER,277,Security risk — conflict zone
+2026-04-13,KLM,KL6145,Kuwait City,Cairo,Kuwait,Egypt,Airbus A320neo,196,Airport closure — military activity
+2026-04-13,Air Arabia,AI5899,Abu Dhabi,Washington,UAE,USA,Boeing 777-200LR,445,Fuel supply disruption
+2026-04-13,Kuwait Airways,KU799,Dubai,Frankfurt,UAE,Germany,Boeing 787-10 Dreamliner,136,ATC flow restrictions — congestion
+2026-04-13,Pakistan International Airlines,PA4722,London,Doha,UK,Qatar,Airbus A330-300,323,ATC flow restrictions — congestion
+2026-04-13,Lufthansa,LU4002,Singapore,London,Singapore,UK,Airbus A320neo,378,Insurance restriction — war zone
+2026-04-13,Pakistan International Airlines,PA4757,Dubai,Delhi,UAE,India,Boeing 737 MAX 8,139,Airspace closure — NOTAM
+2026-04-13,Jazeera Airways,JA8919,London,Dubai,UK,UAE,Airbus A380-800,82,Fuel supply disruption
+2026-04-13,Air Arabia,AI4932,Doha,London,Qatar,UK,Airbus A350-900,401,Temporary corridor suspension — safety bulletin
+2026-04-13,Mahan Air,MA8641,Istanbul,Tehran,Turkey,Iran,Airbus A320neo,216,Diplomatic advisory — do not fly
+2026-04-13,Kuwait Airways,KU4464,Dubai,Karachi,UAE,Pakistan,Boeing 777-200LR,84,Insurance restriction — war zone
+2026-04-13,Air Arabia,AI8032,Istanbul,Dubai,Turkey,UAE,Airbus A330-300,135,Airspace closure — NOTAM
+2026-04-13,Oman Air,OM990,Lahore,Doha,Pakistan,Qatar,Boeing 737-800,144,Security risk — conflict zone
+2026-04-13,Jazeera Airways,JA8937,Frankfurt,Dubai,Germany,UAE,Airbus A350-900,145,Diplomatic advisory — do not fly
+2026-04-13,Lufthansa,LU9323,Doha,London,Qatar,UK,Boeing 777-200LR,95,Fuel supply disruption
+2026-04-14,Turkish Airlines,TU9054,Dubai,Mumbai,UAE,India,Airbus A380-800,360,ATC flow restrictions — congestion
+2026-04-14,Air Arabia,AI1167,Paris,Beirut,France,Lebanon,Airbus A350-900,430,Diplomatic advisory — do not fly
+2026-04-14,Etihad Airways,ET1359,Bahrain,Dubai,Bahrain,UAE,Airbus A330-300,202,Insurance restriction — war zone
+2026-04-14,Turkish Airlines,TU3785,Abu Dhabi,Washington,UAE,USA,Airbus A340-600,188,Insurance restriction — war zone
+2026-04-14,Air France,AI881,London,Kuwait City,UK,Kuwait,Boeing 787-9 Dreamliner,444,Crew safety — company policy
+2026-04-14,Thai Airways,TH5931,Doha,Paris,Qatar,France,Boeing 787-9 Dreamliner,215,Security risk — conflict zone
+2026-04-14,Singapore Airlines,SI8708,Mumbai,Doha,India,Qatar,Boeing 737 MAX 8,130,Airport closure — military activity
+2026-04-14,Cathay Pacific,CA1321,Islamabad,Dubai,Pakistan,UAE,Airbus A330-300,82,Government travel ban
+2026-04-14,Pakistan International Airlines,PA7830,New York,Dubai,USA,UAE,Airbus A330-300,349,Government travel ban
+2026-04-14,flydubai,FL5402,Paris,Doha,France,Qatar,Airbus A340-600,307,Crew duty-time exceedance after long reroutes
+2026-04-14,KLM,KL4387,Dubai,Frankfurt,UAE,Germany,Airbus A321neo,347,Government travel ban
+2026-04-14,Iran Air,IR6577,London,Bahrain,UK,Bahrain,Airbus A380-800,208,ATC flow restrictions — congestion
+2026-04-14,Air France,AI7326,Mumbai,Kuwait City,India,Kuwait,Airbus A350-900,141,Airspace closure — NOTAM
+2026-04-14,Mahan Air,MA2599,Karachi,Dubai,Pakistan,UAE,Boeing 777-300ER,282,Insurance restriction — war zone
+2026-04-14,Delta Air Lines,DE1624,Kuwait City,Mumbai,Kuwait,India,Boeing 787-10 Dreamliner,152,Security risk — conflict zone
+2026-04-15,Air Arabia,AI2302,Kuwait City,London,Kuwait,UK,Boeing 777-200LR,157,Fuel supply disruption
+2026-04-15,Malaysia Airlines,MA2199,Lahore,Doha,Pakistan,Qatar,Airbus A321neo,306,Airspace closure — NOTAM
+2026-04-15,Iran Air,IR8741,Mumbai,Dubai,India,UAE,Boeing 737-800,155,Diplomatic advisory — do not fly
+2026-04-15,Singapore Airlines,SI646,Dubai,Frankfurt,UAE,Germany,Boeing 777-200LR,338,Security risk — conflict zone
+2026-04-15,Turkish Airlines,TU4197,Los Angeles,Doha,USA,Qatar,Boeing 777-300ER,409,Fuel supply disruption
+2026-04-15,Jazeera Airways,JA4978,Beijing,Tehran,China,Iran,Airbus A321neo,178,Crew safety — company policy
+2026-04-15,EgyptAir,EG901,London,Bahrain,UK,Bahrain,Airbus A320neo,194,Crew duty-time exceedance after long reroutes
+2026-04-15,Kuwait Airways,KU8020,Istanbul,Dubai,Turkey,UAE,Airbus A350-900,116,Diplomatic advisory — do not fly
+2026-04-15,Kuwait Airways,KU2855,Dubai,Paris,UAE,France,Boeing 737-800,398,Security risk — conflict zone
+2026-04-15,Delta Air Lines,DE8904,Bahrain,Dubai,Bahrain,UAE,Airbus A380-800,449,Temporary corridor suspension — safety bulletin
+2026-04-15,Gulf Air,GU5473,London,Doha,UK,Qatar,Airbus A340-600,155,Airport closure — military activity
+2026-04-15,Ethiopian Airlines,ET1518,Dubai,Islamabad,UAE,Pakistan,Airbus A320neo,201,Insurance restriction — war zone
+2026-04-15,American Airlines,AM7598,Dubai,Sydney,UAE,Australia,Boeing 777-200LR,208,Security risk — conflict zone
+2026-04-15,Singapore Airlines,SI6837,London,Abu Dhabi,UK,UAE,Airbus A380-800,126,Airport closure — military activity
+2026-04-15,Emirates,EM821,London,Muscat,UK,Oman,Airbus A321neo,91,Airport closure — military activity
+2026-04-15,American Airlines,AM7462,Mumbai,Kuwait City,India,Kuwait,Airbus A350-900,247,Fuel supply disruption
+2026-04-15,Pakistan International Airlines,PA4728,Dubai,Singapore,UAE,Singapore,Airbus A350-900,356,Temporary corridor suspension — safety bulletin
+2026-04-16,Emirates SkyCargo,EM5707,Singapore,London,Singapore,UK,Airbus A320neo,183,Temporary corridor suspension — safety bulletin
+2026-04-16,Turkish Airlines,TU2540,Beijing,Tehran,China,Iran,Airbus A320neo,165,Security risk — conflict zone
+2026-04-16,Delta Air Lines,DE8276,Dubai,Paris,UAE,France,Boeing 777-200LR,292,Crew duty-time exceedance after long reroutes
+2026-04-16,British Airways,BR1269,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A321neo,282,Airspace closure — NOTAM
+2026-04-16,Oman Air,OM3021,Bahrain,London,Bahrain,UK,Airbus A321neo,205,Airspace closure — NOTAM
+2026-04-16,Saudi Arabian Airlines,SA692,Doha,Lahore,Qatar,Pakistan,Airbus A321neo,343,Government travel ban
+2026-04-16,Saudi Arabian Airlines,SA1750,Doha,New York,Qatar,USA,Boeing 737 MAX 8,294,Security risk — conflict zone
+2026-04-16,Emirates SkyCargo,EM9053,Dubai,Paris,UAE,France,Airbus A340-600,138,Airport closure — military activity
+2026-04-16,Pakistan International Airlines,PA3877,Lahore,Doha,Pakistan,Qatar,Airbus A340-600,242,Government travel ban
+2026-04-16,American Airlines,AM1281,Dubai,Bahrain,UAE,Bahrain,Airbus A321neo,400,ATC flow restrictions — congestion
+2026-04-16,Qatar Airways,QA5683,Karachi,Istanbul,Pakistan,Turkey,Airbus A320neo,213,Temporary corridor suspension — safety bulletin
+2026-04-16,Qatar Airways,QA9948,Abu Dhabi,Washington,UAE,USA,Boeing 787-10 Dreamliner,221,Airspace closure — NOTAM
+2026-04-16,United Airlines,UN1960,Singapore,Dubai,Singapore,UAE,Boeing 787-10 Dreamliner,410,Temporary corridor suspension — safety bulletin
+2026-04-16,Air India,AI9135,Mumbai,Kuwait City,India,Kuwait,Boeing 777-300ER,216,Crew safety — company policy
+2026-04-16,Mahan Air,MA5437,Karachi,Dubai,Pakistan,UAE,Airbus A320neo,413,Diplomatic advisory — do not fly
+2026-04-16,EgyptAir,EG1379,London,Bahrain,UK,Bahrain,Boeing 737 MAX 8,169,Airport closure — military activity
+2026-04-16,United Airlines,UN7941,Istanbul,Dubai,Turkey,UAE,Boeing 787-10 Dreamliner,333,Temporary corridor suspension — safety bulletin
+2026-04-16,Cathay Pacific,CA4796,Frankfurt,Dubai,Germany,UAE,Airbus A380-800,292,ATC flow restrictions — congestion
+2026-04-16,Air Arabia,AI5386,London,Muscat,UK,Oman,Airbus A340-600,427,Diplomatic advisory — do not fly
+2026-04-16,Mahan Air,MA9269,Doha,London,Qatar,UK,Airbus A350-900,263,Fuel supply disruption
+2026-04-16,Cargolux,CA9685,London,Singapore,UK,Singapore,Boeing 737-800,285,Insurance restriction — war zone
+2026-04-16,Qatar Airways,QA7052,Dubai,Karachi,UAE,Pakistan,Airbus A321neo,154,Crew duty-time exceedance after long reroutes
+2026-04-16,Etihad Airways,ET3665,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 777-200LR,155,Airport closure — military activity
+2026-04-17,Malaysia Airlines,MA5291,Abu Dhabi,Sydney,UAE,Australia,Boeing 787-10 Dreamliner,259,Insurance restriction — war zone
+2026-04-17,EgyptAir,EG1147,Riyadh,Islamabad,Saudi Arabia,Pakistan,Boeing 737-800,241,Insurance restriction — war zone
+2026-04-17,Air India,AI4742,Doha,Los Angeles,Qatar,USA,Airbus A320neo,388,Insurance restriction — war zone
+2026-04-17,Emirates SkyCargo,EM7552,Paris,Beirut,France,Lebanon,Boeing 777-300ER,127,Crew duty-time exceedance after long reroutes
+2026-04-17,Singapore Airlines,SI8713,Bahrain,Dubai,Bahrain,UAE,Airbus A350-900,86,Diplomatic advisory — do not fly
+2026-04-17,Iran Air,IR3436,Frankfurt,Dubai,Germany,UAE,Airbus A321neo,192,Government travel ban
+2026-04-17,Jazeera Airways,JA732,London,Muscat,UK,Oman,Airbus A320neo,198,Fuel supply disruption
+2026-04-17,Jazeera Airways,JA9573,Dubai,Karachi,UAE,Pakistan,Boeing 737 MAX 8,101,Airport closure — military activity
+2026-04-17,Ethiopian Airlines,ET2867,Karachi,Istanbul,Pakistan,Turkey,Airbus A330-300,127,Airspace closure — NOTAM
+2026-04-17,EgyptAir,EG7855,Abu Dhabi,Sydney,UAE,Australia,Airbus A330-300,124,Fuel supply disruption
+2026-04-17,Air France,AI685,Riyadh,Islamabad,Saudi Arabia,Pakistan,Airbus A350-900,168,Fuel supply disruption
+2026-04-17,FedEx Express,FE4686,Doha,Paris,Qatar,France,Boeing 737 MAX 8,175,Fuel supply disruption
+2026-04-17,Ethiopian Airlines,ET3804,Dubai,Bahrain,UAE,Bahrain,Boeing 777-300ER,353,Crew duty-time exceedance after long reroutes
+2026-04-17,Lufthansa,LU6722,Dubai,New York,UAE,USA,Airbus A350-900,231,Government travel ban
+2026-04-17,Cathay Pacific,CA4163,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A321neo,434,Insurance restriction — war zone
+2026-04-17,Emirates SkyCargo,EM4418,Beijing,Tehran,China,Iran,Airbus A321neo,424,Insurance restriction — war zone
+2026-04-17,Emirates SkyCargo,EM1534,Cairo,Dubai,Egypt,UAE,Boeing 737-800,162,Airspace closure — NOTAM
+2026-04-17,FedEx Express,FE5334,Doha,New York,Qatar,USA,Airbus A330-300,245,Government travel ban
+2026-04-17,Emirates SkyCargo,EM1789,Delhi,Dubai,India,UAE,Airbus A320neo,350,Government travel ban
+2026-04-17,Delta Air Lines,DE6317,Riyadh,Cairo,Saudi Arabia,Egypt,Boeing 777-200LR,353,Crew safety — company policy
+2026-04-17,Gulf Air,GU9418,Paris,Doha,France,Qatar,Boeing 737 MAX 8,386,Fuel supply disruption
+2026-04-17,United Airlines,UN5286,Dubai,Delhi,UAE,India,Airbus A321neo,317,Crew safety — company policy
+2026-04-18,Oman Air,OM6476,Karachi,Dubai,Pakistan,UAE,Airbus A320neo,360,Airport closure — military activity
+2026-04-18,FedEx Express,FE3862,Singapore,London,Singapore,UK,Boeing 737-800,110,Diplomatic advisory — do not fly
+2026-04-18,KLM,KL8974,Los Angeles,Doha,USA,Qatar,Airbus A320neo,196,Temporary corridor suspension — safety bulletin
+2026-04-18,KLM,KL5103,Paris,Dubai,France,UAE,Boeing 777-300ER,402,Crew safety — company policy
+2026-04-18,Pakistan International Airlines,PA5626,Los Angeles,Doha,USA,Qatar,Boeing 787-10 Dreamliner,167,ATC flow restrictions — congestion
+2026-04-18,British Airways,BR5514,Singapore,London,Singapore,UK,Boeing 777-300ER,284,Insurance restriction — war zone
+2026-04-18,flydubai,FL9192,Dubai,Istanbul,UAE,Turkey,Boeing 777-300ER,113,Security risk — conflict zone
+2026-04-18,Turkish Airlines,TU4478,Lahore,Doha,Pakistan,Qatar,Boeing 737 MAX 8,305,Government travel ban
+2026-04-18,Air France,AI5691,New York,Dubai,USA,UAE,Airbus A320neo,257,Government travel ban
+2026-04-18,IndiGo,IN4143,London,Riyadh,UK,Saudi Arabia,Boeing 777-300ER,181,Crew duty-time exceedance after long reroutes
+2026-04-18,Delta Air Lines,DE1403,Karachi,Dubai,Pakistan,UAE,Airbus A350-900,401,ATC flow restrictions — congestion
+2026-04-18,Delta Air Lines,DE581,Dubai,Frankfurt,UAE,Germany,Boeing 787-10 Dreamliner,421,Insurance restriction — war zone
+2026-04-18,Air France,AI692,Singapore,Dubai,Singapore,UAE,Airbus A330-300,114,Airport closure — military activity
+2026-04-18,Iran Air,IR6684,London,Muscat,UK,Oman,Boeing 777-300ER,251,Airspace closure — NOTAM
+2026-04-18,Air India,AI2674,Karachi,Dubai,Pakistan,UAE,Airbus A321neo,394,Security risk — conflict zone
+2026-04-18,DHL Aviation,DH5968,Doha,Lahore,Qatar,Pakistan,Airbus A321neo,153,Government travel ban
+2026-04-18,Gulf Air,GU4657,Dubai,Frankfurt,UAE,Germany,Boeing 737-800,196,Temporary corridor suspension — safety bulletin
+2026-04-18,Oman Air,OM5188,Delhi,Istanbul,India,Turkey,Boeing 777-300ER,129,Security risk — conflict zone
+2026-04-18,IndiGo,IN8449,New York,Dubai,USA,UAE,Boeing 737 MAX 8,385,Government travel ban
+2026-04-18,Gulf Air,GU7115,New York,Doha,USA,Qatar,Boeing 787-10 Dreamliner,217,Security risk — conflict zone
+2026-04-18,Oman Air,OM7076,Dubai,Frankfurt,UAE,Germany,Airbus A380-800,263,Insurance restriction — war zone
+2026-04-18,Emirates SkyCargo,EM6011,Cairo,Dubai,Egypt,UAE,Boeing 787-9 Dreamliner,103,Crew duty-time exceedance after long reroutes
+2026-04-19,Malaysia Airlines,MA8821,London,Kuwait City,UK,Kuwait,Airbus A330-300,328,Diplomatic advisory — do not fly
+2026-04-19,Pakistan International Airlines,PA3890,Doha,London,Qatar,UK,Boeing 777-300ER,127,Fuel supply disruption
+2026-04-19,Gulf Air,GU8555,London,Riyadh,UK,Saudi Arabia,Airbus A350-900,450,Crew duty-time exceedance after long reroutes
+2026-04-19,Thai Airways,TH5239,Abu Dhabi,Washington,UAE,USA,Boeing 737-800,321,Fuel supply disruption
+2026-04-19,KLM,KL7570,Bahrain,Dubai,Bahrain,UAE,Airbus A321neo,256,Security risk — conflict zone
+2026-04-19,Malaysia Airlines,MA294,Kuwait City,London,Kuwait,UK,Airbus A380-800,149,Airspace closure — NOTAM
+2026-04-19,Singapore Airlines,SI8891,Karachi,Dubai,Pakistan,UAE,Airbus A380-800,360,Crew safety — company policy
+2026-04-19,Turkish Airlines,TU8263,Beijing,Tehran,China,Iran,Boeing 737 MAX 8,153,Airspace closure — NOTAM
+2026-04-19,Malaysia Airlines,MA5196,Doha,Los Angeles,Qatar,USA,Boeing 787-9 Dreamliner,206,Airport closure — military activity
+2026-04-19,Thai Airways,TH6969,Amman,Dubai,Jordan,UAE,Airbus A330-300,98,Crew safety — company policy
+2026-04-19,Thai Airways,TH8673,Tehran,Istanbul,Iran,Turkey,Airbus A321neo,225,Airspace closure — NOTAM
+2026-04-19,Delta Air Lines,DE3481,Dubai,Islamabad,UAE,Pakistan,Boeing 777-200LR,98,Diplomatic advisory — do not fly
+2026-04-19,Delta Air Lines,DE6067,Istanbul,Dubai,Turkey,UAE,Airbus A350-900,366,Crew duty-time exceedance after long reroutes
+2026-04-19,Air France,AI513,Paris,Doha,France,Qatar,Boeing 787-10 Dreamliner,384,ATC flow restrictions — congestion
+2026-04-19,Oman Air,OM9474,Kuwait City,Cairo,Kuwait,Egypt,Boeing 787-10 Dreamliner,218,Security risk — conflict zone
+2026-04-19,EgyptAir,EG2868,London,Kuwait City,UK,Kuwait,Airbus A330-300,323,Insurance restriction — war zone
+2026-04-19,Mahan Air,MA9555,Riyadh,Cairo,Saudi Arabia,Egypt,Airbus A320neo,195,Airport closure — military activity
+2026-04-20,Etihad Airways,ET9919,Singapore,Dubai,Singapore,UAE,Airbus A321neo,314,Diplomatic advisory — do not fly
+2026-04-20,Saudi Arabian Airlines,SA3808,Dubai,Karachi,UAE,Pakistan,Airbus A340-600,221,Fuel supply disruption
+2026-04-20,Etihad Airways,ET6286,Paris,Doha,France,Qatar,Airbus A321neo,380,Insurance restriction — war zone
+2026-04-20,Air France,AI5045,Cairo,Riyadh,Egypt,Saudi Arabia,Airbus A350-900,406,Crew duty-time exceedance after long reroutes
+2026-04-20,DHL Aviation,DH9250,Kuwait City,Mumbai,Kuwait,India,Airbus A350-900,301,Diplomatic advisory — do not fly
+2026-04-20,Gulf Air,GU6041,London,Bahrain,UK,Bahrain,Boeing 777-300ER,366,Insurance restriction — war zone
+2026-04-20,Jazeera Airways,JA8882,Istanbul,Dubai,Turkey,UAE,Airbus A321neo,86,ATC flow restrictions — congestion
+2026-04-20,Thai Airways,TH5062,Kuwait City,London,Kuwait,UK,Boeing 737 MAX 8,355,Diplomatic advisory — do not fly
+2026-04-20,Malaysia Airlines,MA1394,Frankfurt,Dubai,Germany,UAE,Airbus A321neo,277,Airport closure — military activity
+2026-04-20,Malaysia Airlines,MA3619,Dubai,Amman,UAE,Jordan,Boeing 777-300ER,317,Crew safety — company policy
+2026-04-20,Lufthansa,LU2608,Abu Dhabi,London,UAE,UK,Airbus A340-600,153,Insurance restriction — war zone
+2026-04-20,American Airlines,AM3949,Istanbul,Delhi,Turkey,India,Airbus A330-300,252,Airspace closure — NOTAM
+2026-04-20,Oman Air,OM6650,Istanbul,Delhi,Turkey,India,Boeing 787-9 Dreamliner,133,Airport closure — military activity
+2026-04-20,FedEx Express,FE9528,Amman,Dubai,Jordan,UAE,Boeing 787-10 Dreamliner,212,Temporary corridor suspension — safety bulletin
+2026-04-20,Turkish Airlines,TU1265,Dubai,Frankfurt,UAE,Germany,Airbus A321neo,346,Security risk — conflict zone
+2026-04-20,United Airlines,UN3753,Bahrain,London,Bahrain,UK,Boeing 787-10 Dreamliner,444,Diplomatic advisory — do not fly
+2026-04-20,British Airways,BR6820,Mumbai,Dubai,India,UAE,Airbus A380-800,191,Fuel supply disruption
+2026-04-20,DHL Aviation,DH2011,Tehran,Istanbul,Iran,Turkey,Boeing 737 MAX 8,194,Government travel ban
+2026-04-20,Etihad Airways,ET1184,Istanbul,Karachi,Turkey,Pakistan,Airbus A350-900,390,Temporary corridor suspension — safety bulletin
+2026-04-20,Delta Air Lines,DE6050,Singapore,London,Singapore,UK,Airbus A340-600,187,Airport closure — military activity
+2026-04-20,Jazeera Airways,JA223,Singapore,Dubai,Singapore,UAE,Boeing 787-10 Dreamliner,407,Airport closure — military activity
+2026-04-20,Mahan Air,MA6697,Kuwait City,London,Kuwait,UK,Airbus A340-600,405,Security risk — conflict zone
+2026-04-20,Ethiopian Airlines,ET872,London,Doha,UK,Qatar,Airbus A380-800,371,Airport closure — military activity
+2026-04-20,American Airlines,AM4167,Istanbul,Delhi,Turkey,India,Airbus A340-600,447,Crew duty-time exceedance after long reroutes
